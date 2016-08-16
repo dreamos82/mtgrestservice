@@ -1,0 +1,2245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<edition>
+		<launch>1993-08</launch>
+		<code> LEA (A) </code>
+		<names>
+			<name>Alpha</name>
+			<name lang="it">Alfa</name>
+		</names>
+		<cards>
+			<common>74</common>
+			<uncommon>95</uncommon>
+			<rare>116</rare>
+			<lands>10</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1993-10</launch>
+		<code> LEB (B) </code>
+		<names>
+			<name>Beta</name>
+		</names>
+		<cards>
+			<common>74</common>
+			<uncommon>95</uncommon>
+			<rare>117</rare>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1993-12</launch>
+		<code> 2ED (U) </code>
+		<names>
+			<name>Unlimited Edition</name>
+		</names>
+		<cards>
+			<common>74</common>
+			<uncommon>95</uncommon>
+			<rare>117</rare>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1993-12</launch>
+		<code> ARN (AN) </code>
+		<image>Arabian_Nights_symbol.png</image>
+		<names>
+			<name>Arabian Nights</name>
+		</names>
+		<cards>
+			<common>41</common>
+			<uncommon>19</uncommon>
+			<rare>32</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1994-03</launch>
+		<code>ATQ (AQ) </code>
+		<image>ATQ_symbol.png</image>
+		<names>
+			<name>Antiquities</name>
+		</names>
+		<cards>
+			<common>30</common>
+			<uncommon>44</uncommon>
+			<rare>26</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1994-04</launch>
+		<code> 3ED (RV) </code>
+		<names>
+			<name>Revised Edition</name>
+		</names>
+		<cards>
+			<common>75</common>
+			<uncommon>95</uncommon>
+			<rare>121</rare>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1994-06</launch>
+		<code> LEG (LE) </code>
+		<image>LEG_symbol.png</image>
+		<names>
+			<name>Legends</name>
+			<name lang="it">Leggende</name>
+		</names>
+		<cards>
+			<common>75</common>
+			<uncommon>114</uncommon>
+			<rare>121</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1994-08</launch>
+		<code> DRK (DK) </code>
+		<image>The_Dark_symbol.png</image>
+		<names>
+			<name>The Dark</name>
+			<name lang="it">L'Oscurità</name>
+		</names>
+		<cards>
+			<common>40</common>
+			<uncommon>44</uncommon>
+			<rare>35</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1994-11</launch>
+		<code> FEM (FE) </code>
+		<image>FEM_symbol.png</image>
+		<names>
+			<name>Fallen Empires</name>
+		</names>
+		<cards>
+			<common>121</common>
+			<uncommon>30</uncommon>
+			<rare>36</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1995-05</launch>
+		<code> 4ED (4E) </code>
+		<names>
+			<name>4th Edition</name>
+			<name lang="it">Quarta Edizione</name>
+			<name lang="es">Cuarta Edición </name>
+		</names>
+		<cards>
+			<common>121</common>
+			<uncommon>121</uncommon>
+			<rare>121</rare>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1995-06</launch>
+		<code> ICE (IA) </code>
+		<image>ICE_symbol.png</image>
+		<names>
+			<name>Ice Age</name>
+			<name lang="it">Era Glaciale</name>
+			<name lang="es">Era Glacial</name>
+		</names>
+		<cards>
+			<common>121</common>
+			<uncommon>121</uncommon>
+			<rare>121</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1995-07</launch>
+		<code> CHR (CH) </code>
+		<image>CHR_symbol.png</image>
+		<names>
+			<name>Chronicles</name>
+		</names>
+		<cards>
+			<common>37</common>
+			<uncommon>43</uncommon>
+			<rare>45</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1995-08</launch>
+		<code> </code>
+		<names>
+			<name>Renaissance</name>
+			<name lang="it">Rinascimento</name>
+		</names>
+		<cards>
+			<common>51</common>
+			<uncommon>40</uncommon>
+			<rare>31</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1995-10</launch>
+		<code> HML (HL) </code>
+		<image>HML_symbol.png</image>
+		<names>
+			<name>Homelands</name>
+			<name lang="it">Origini</name>
+			<name lang="es">Tierras Natales</name>
+		</names>
+		<cards>
+			<common>71</common>
+			<uncommon>27</uncommon>
+			<rare>42</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1996-06</launch>
+		<code> ALL (AL) </code>
+		<image>ALL_symbol.png</image>
+		<names>
+			<name>Alliances</name>
+			<name lang="it">Alleanze</name>
+			<name lang="es">Alianzas</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>43</uncommon>
+			<rare>46</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1996-10</launch>
+		<code> MIR (MI) </code>
+		<image>MIR_symbol.png</image>
+		<names>
+			<name>Mirage</name>
+			<name lang="it">Mirage</name>
+			<name lang="es">Espejismo</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1997-02</launch>
+		<code> VIS (VI) </code>
+		<image>VIS_symbol.png</image>
+		<names>
+			<name>Visions</name>
+			<name lang="it">Visioni</name>
+			<name lang="es">Visiones</name>
+		</names>
+		<cards>
+			<common>62</common>
+			<uncommon>55</uncommon>
+			<rare>50</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1997-03</launch>
+		<code> 5ED (5E) </code>
+		<image>5ED_symbol.gif</image>
+		<names>
+			<name>5th Edition</name>
+			<name lang="it">Quinta Edizione</name>
+			<name lang="es">Quinta Edición</name>
+		</names>
+		<cards>
+			<common>165</common>
+			<uncommon>132</uncommon>
+			<rare>132</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1997-05</launch>
+		<code> POR (PO) </code>
+		<image>POR_symbol.gif</image>
+		<names>
+			<name>Portal</name>
+			<name lang="es">Portal</name>
+		</names>
+		<cards>
+			<common>90</common>
+			<uncommon>57</uncommon>
+			<rare>55</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1997-06</launch>
+		<code> WTH (WL) </code>
+		<image>WTH_symbol.png</image>
+		<names>
+			<name>Weatherlight</name>
+			<name lang="it">Cavalcamento</name>
+			<name lang="es">El Vientoligeró</name>
+		</names>
+		<cards>
+			<common>62</common>
+			<uncommon>55</uncommon>
+			<rare>50</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1997-10</launch>
+		<code> TMP (TE) </code>
+		<image>TMP_symbol.png</image>
+		<names>
+			<name>Tempest</name>
+			<name lang="it">Tempesta</name>
+			<name lang="es">Tempestad</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1998-02</launch>
+		<code> STH (ST) </code>
+		<image>STH_symbol.png</image>
+		<names>
+			<name>Stronghold</name>
+			<name lang="it">Fortezza</name>
+			<name lang="es">Fortaleza</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1998-06</launch>
+		<code> EXO (EX) </code>
+		<image>EXO_symbol.png</image>
+		<names>
+			<name>Exodus</name>
+			<name lang="it">Esodo</name>
+			<name lang="es">Éxodo</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1998-06</launch>
+		<code> PO2 (P2) </code>
+		<image>Pentagon.gif</image>
+		<names>
+			<name>Portal Second Age</name>
+			<name lang="it">Portal Seconda Era</name>
+			<name lang="es">Portal Segunda Edad</name>
+		</names>
+		<cards>
+			<common>70</common>
+			<uncommon>45</uncommon>
+			<rare>35</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1998-08</launch>
+		<code> UGL (UG) </code>
+		<image>Unglued_symbol.gif</image>
+		<names>
+			<name>Unglued</name>
+		</names>
+		<cards>
+			<common>33</common>
+			<uncommon>22</uncommon>
+			<rare>28</rare>
+			<lands>5</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1998-10</launch>
+		<code> USG (US) </code>
+		<image>Urzas_Saga_symbol.png</image>
+		<names>
+			<name>Urza's Saga</name>
+			<name lang="it">Saga di Urza</name>
+			<name lang="it">Saga de Urza</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1998-11</launch>
+		<code> ATH </code>
+		<names>
+			<name>Anthologies</name>
+		</names>
+	</edition>
+	<edition>
+		<launch>1999-02</launch>
+		<code> ULG (UL) </code>
+		<image>Urzas_Legacy_symbol.png</image>
+		<names>
+			<name>Urza's Legacy</name>
+			<name lang="it">Eredità di Urza</name>
+			<name lang="es">El Legado de Urza</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1999-04</launch>
+		<code> 6ED (6E) </code>
+		<image>6ED_symbol.png</image>
+		<names>
+			<name>6th Edition</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1999-06</launch>
+		<code> UDS (UD) </code>
+		<image>Urzas_Destiny_symbol.png</image>
+		<names>
+			<name>Urza's Destiny</name>
+			<name lang="it">Il Destino di Urza</name>
+			<name lang="es">El Destino de Urza</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1999-07</launch>
+		<code> PTK (P3) </code>
+		<image>P3K_symbol.gif</image>
+		<names>
+			<name>Portal Three Kingdoms</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>55</uncommon>
+			<rare>55</rare>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1999-08</launch>
+		<code> S99 </code>
+		<image>Starter_1999_symbol.gif</image>
+		<names>
+			<name>Starter 1999</name>
+		</names>
+		<cards>
+			<common>63</common>
+			<uncommon>55</uncommon>
+			<rare>35</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1999-09</launch>
+		<code> MMQ (MM) </code>
+		<image>MMQ_symbol.png</image>
+		<names>
+			<name>Mercadian Masques</name>
+			<name lang="it">Maschere di Mercadia</name>
+			<name lang="es">Máscaras de Mercadia</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>1999-11</launch>
+		<code> BRB </code>
+		<names>
+			<name>Battle Royale</name>
+		</names>
+		<preconstructed decks="4">
+			<size>40</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2000-02</launch>
+		<code> NEM (NE) </code>
+		<image>NEM_symbol.png</image>
+		<names>
+			<name>Nemesis</name>
+			<name lang="it">Nemesis</name>
+			<name lang="es">Nemesis</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2000-04</launch>
+		<code> S00 </code>
+		<names>
+			<name>Starter 2000</name>
+			<name lang="it">Starter 2000</name>
+			<name lang="es">Starter 2000</name>
+		</names>
+		<cards>
+			<common>39</common>
+			<uncommon>6</uncommon>
+			<rare>2</rare>
+			<lands>10</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2000-06</launch>
+		<code> PCY (PR) </code>
+		<image>PCY_symbol.png</image>
+		<names>
+			<name>Prophecy</name>
+			<name lang="it">Profezia</name>
+			<name lang="es">Profecía</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2000-09</launch>
+		<code> INV (IN) </code>
+		<image>INV_symbol.png</image>
+		<names>
+			<name>Invasion</name>
+			<name lang="it">Invasione</name>
+			<name lang="es">Invasióne</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2000-10</launch>
+		<code> BTD </code>
+		<image>BTD_symbol.png</image>
+		<names>
+			<name>Beatdown</name>
+		</names>
+		<preconstructed decks="2">
+			<size>61</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2001-01</launch>
+		<code> PLS (PL) </code>
+		<image>PLS_symbol.png</image>
+		<names>
+			<name>Planeshift</name>
+			<name lang="it">Congiunzione</name>
+			<name lang="es">Transmigración</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2001-04</launch>
+		<code> 7ED (7E) </code>
+		<image>7ED_symbol.png</image>
+		<names>
+			<name>7th Edition</name>
+			<name lang="it">Settima Edizione</name>
+			<name lang="es">Séptima Edición</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2001-05</launch>
+		<code> APC (AP) </code>
+		<image>APC_symbol.png</image>
+		<names>
+			<name>Apocalypse</name>
+			<name lang="it">Apocalisse</name>
+			<name lang="es">Apocalipsis</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2001-10</launch>
+		<code> ODY (OD) </code>
+		<image>ODY_symbol.png</image>
+		<names>
+			<name>Odyssey</name>
+			<name lang="it">Odissea</name>
+			<name lang="es">Odisea</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2001-12</launch>
+		<code> DKM </code>
+		<image>DKM_symbol.png</image>
+		<names>
+			<name>Deckmasters 2001</name>
+		</names>
+		<preconstructed decks="2">
+			<size>62</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2002-02</launch>
+		<code> TOR (TO) </code>
+		<image>TOR_symbol.png</image>
+		<names>
+			<name>Torment</name>
+			<name lang="it">Tormento</name>
+			<name lang="es">Tormento</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2002-05</launch>
+		<code> JUD (JU) </code>
+		<image>JUD_symbol.png</image>
+		<names>
+			<name>Judgment</name>
+			<name lang="it">Sentenza</name>
+			<name lang="es">Juicio</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2002-10</launch>
+		<code> ONS (ON) </code>
+		<image>ONS_symbol.png</image>
+		<names>
+			<name>Onslaught</name>
+			<name lang="it">Assalto</name>
+			<name lang="es">Embestida</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2003-01</launch>
+		<code> LGN (LE) </code>
+		<image>LGN_symbol.png</image>
+		<names>
+			<name>Legions</name>
+			<name lang="it">Legioni</name>
+			<name lang="es">Legiones</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2003-05</launch>
+		<code>SCG (SC) </code>
+		<image>SCG_symbol.gif</image>
+		<names>
+			<name>Scourge</name>
+			<name lang="it">Flagello</name>
+			<name lang="es">Azote</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>44</uncommon>
+			<rare>44</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2003-07</launch>
+		<code> 8ED (8E) </code>
+		<image>8ED_symbol.gif</image>
+		<names>
+			<name>8th Edition</name>
+			<name lang="it">Ottava Edizione </name>
+			<name lang="es">Octava Edición </name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+			<other>7</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2003-10</launch>
+		<code> MRD </code>
+		<image>MRD_symbol.png</image>
+		<names>
+			<name>Mirrodin</name>
+			<name lang="it">Mirrodin</name>
+			<name lang="es">Mirrodin</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>88</uncommon>
+			<rare>88</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2004-02</launch>
+		<code> DST </code>
+		<image>DST_symbol.png</image>
+		<names>
+			<name>Darksteel</name>
+			<name lang="it">Darksteel</name>
+			<name lang="es">Darksteel</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>55</uncommon>
+			<rare>55</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2004-06</launch>
+		<code> 5DN </code>
+		<image>5DN_symbol.png</image>
+		<names>
+			<name>Fifth Dawn</name>
+			<name lang="it">Quinta Alba</name>
+			<name lang="es">Quinto Amanecer</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>55</uncommon>
+			<rare>55</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2004-10</launch>
+		<code> CHK </code>
+		<image>CHK_symbol.png</image>
+		<names>
+			<name>Champions of Kamigawa</name>
+			<name lang="it">Campioni di Kamigawa</name>
+			<name lang="es">Campeones de Kamigawa</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>88</uncommon>
+			<rare>88</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2004-11</launch>
+		<code> UNH </code>
+		<image>Unhinged_symbol.gif</image>
+		<names>
+			<name>Unhinged</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>40</uncommon>
+			<rare>40</rare>
+			<lands>5</lands>
+			<other>1</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2005-02</launch>
+		<code> BOK </code>
+		<image>BOK_symbol.png</image>
+		<names>
+			<name>Betrayers of Kamigawa</name>
+			<name lang="it">Traditori di Kamig</name>
+			<name lang="es">Traidores de Kamigawa</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>55</uncommon>
+			<rare>55</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2005-06</launch>
+		<code> SOK </code>
+		<image>SOK_symbol.png</image>
+		<names>
+			<name>Saviors of Kamigawa</name>
+			<name lang="it">Liberatori di Kamigawa</name>
+			<name lang="es">Salvadores de Kamigawa</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>55</uncommon>
+			<rare>55</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2005-07</launch>
+		<code> 9ED </code>
+		<image>9ED_symbol.gif</image>
+		<names>
+			<name>9th Edition</name>
+			<name lang="it">Nona Edizione</name>
+			<name lang="es">Novena Edición</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>110</uncommon>
+			<rare>110</rare>
+			<lands>20</lands>
+			<other>9</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2005-10</launch>
+		<code> RAV </code>
+		<image>RAV_symbol.png</image>
+		<names>
+			<name>Ravnica: City of Guilds</name>
+			<name lang="it">Ravnica: Città delle Gilde</name>
+			<name lang="es">Ravnica: Ciudad de Gremios</name>
+		</names>
+		<cards>
+			<common>110</common>
+			<uncommon>88</uncommon>
+			<rare>88</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2006-02</launch>
+		<code> GPT </code>
+		<image>GPT_symbol.png</image>
+		<names>
+			<name>Guildpact</name>
+			<name lang="it">Il Patto delle Gilde</name>
+			<name lang="es">El Pacto entre Gremios</name>
+		</names>
+		<cards>
+			<common>55</common>
+			<uncommon>55</uncommon>
+			<rare>55</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2006-05</launch>
+		<code> DIS </code>
+		<image>DIS_symbol.png</image>
+		<names>
+			<name>Dissension</name>
+			<name lang="it">Discordia</name>
+			<name lang="es">Discordia</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>60</uncommon>
+			<rare>60</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2006-07</launch>
+		<code> CSP </code>
+		<image>CSP_symbol.png</image>
+		<names>
+			<name>Coldsnap</name>
+			<name lang="it">Ondata Glaciale</name>
+            <name lang="es">Ola de frío</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>55</uncommon>
+			<rare>40</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2006-10</launch>
+		<code> TSP/TSB </code>
+		<image>TSP_symbol.png</image>
+		<names>
+			<name>Time Spiral</name>
+			<name lang="it">Spirale Temporale</name>
+            <name lang="es">Espiral del Tiempo</name>
+		</names>
+		<cards>
+			<common>121</common>
+			<uncommon>80</uncommon>
+			<rare>80</rare>
+			<lands>20</lands>
+			<other>121</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2007-02</launch>
+		<code> PLC </code>
+		<image>PLC_symbol.png</image>
+		<names>
+			<name>Planar Chaos</name>
+			<name lang="it">Caos Dimensionale</name>
+            <name lang="es">Caos Planar</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>55</uncommon>
+			<rare>50</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2007-05</launch>
+		<code> FUT </code>
+		<image>FUT_symbol.png</image>
+		<names>
+			<name>Future Sight</name>
+			<name lang="it">Visione Futura</name>
+            <name lang="es">Visión del Futuro</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>60</uncommon>
+			<rare>60</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2007-07</launch>
+		<code> 10E </code>
+		<image>Tenth_Edition_symbol.png</image>
+		<names>
+			<name>10th Edition</name>
+			<name lang="it">Decima Edizione</name>
+            <name lang="es">Décima Edición</name>
+		</names>
+		<cards>
+			<common>121</common>
+			<uncommon>121</uncommon>
+			<rare>121</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2007-09</launch>
+		<code> MED </code>
+		<image>Masters_Edition_symbol.png</image>
+		<names>
+			<name>Masters Edition</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>60</uncommon>
+			<rare>60</rare>
+			<lands>15</lands>
+		</cards>
+		<online />
+	</edition>
+	<edition>
+		<launch>2007-10</launch>
+		<code> LRW </code>
+		<image>LRW_symbol.png</image>
+		<names>
+			<name>Lorwyn</name>
+			<name lang="it">Lorwyn</name>
+            <name lang="es">Lorwyn</name>
+		</names>
+		<cards>
+			<common>121</common>
+			<uncommon>80</uncommon>
+			<rare>80</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2007-11</launch>
+		<code> EVG </code>
+		<image>EVG_symbol.png</image>
+		<names>
+			<name>Duel Decks: Elves vs. Goblins</name>
+		</names>
+	</edition>
+	<edition>
+		<launch>2008-02</launch>
+		<code> MOR </code>
+		<image>MOR_symbol.png</image>
+		<names>
+			<name>Morningtide</name>
+			<name lang="it">Aurora</name>
+            <name lang="es">Alborada</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>40</uncommon>
+			<rare>50</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2008-05</launch>
+		<code> SHM </code>
+		<image>SHM_symbol.png</image>
+		<names>
+			<name>Shadowmoor</name>
+			<name lang="it">Landa Tenebrosa</name>
+            <name lang="es">Páramo Sombrio</name>
+		</names>
+		<cards>
+			<common>121</common>
+			<uncommon>80</uncommon>
+			<rare>80</rare>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2008-06</launch>
+		<code> EVE </code>
+		<image>EVE_symbol.png</image>
+		<names>
+			<name>Eventide</name>
+			<name lang="it">Vespro</name>
+            <name lang="es">Crepúsculo</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>60</uncommon>
+			<rare>60</rare>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2008-08</launch>
+		<code> DRB </code>
+		<image>DRB_symbol.png</image>
+		<names>
+			<name>From the Vault: Dragons</name>
+		</names>
+		<cards>
+			<other>15</other>
+		</cards>
+		<vault />
+	</edition>
+	<edition>
+		<launch>2008-09</launch>
+		<code> ME2 </code>
+		<image>Masters_Edition_II_symbol.png</image>
+		<names>
+			<name>Masters Edition II</name>
+		</names>
+		<cards>
+			<common>80</common>
+			<uncommon>80</uncommon>
+			<rare>80</rare>
+			<lands>5</lands>
+		</cards>
+		<online />
+	</edition>
+	<edition>
+		<launch>2008-09</launch>
+		<code> ALA </code>
+		<image>ALA_symbol.png</image>
+		<names>
+			<name>Shards of Alara</name>
+			<name lang="it">Frammenti di Alara</name>
+            <name lang="es">Fragmentos de Alara</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2008-11</launch>
+		<code> DD2 </code>
+		<image>DD2_symbol.png</image>
+		<names>
+			<name>Duel Decks: Jace vs. Chandra</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2009-02</launch>
+		<code> CON </code>
+		<image>CON_symbol.png</image>
+		<names>
+			<name>Conflux</name>
+			<name lang="it">Conflux</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>40</uncommon>
+			<rare>35</rare>
+			<mythic>10</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2009-04</launch>
+		<code> DDC </code>
+		<image>DDC_symbol.png</image>
+		<names>
+			<name>Duel Decks: Divine vs. Demonic</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2009-04</launch>
+		<code> ARB </code>
+		<image>ARB_symbol.png</image>
+		<names>
+			<name>Alara Reborn</name>
+			<name lang="it">Alara Reborn</name>
+            <name lang="es">Alara Reborn</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>40</uncommon>
+			<rare>35</rare>
+			<mythic>10</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2009-07</launch>
+		<code> M10 </code>
+		<image>M10_symbol.png</image>
+		<names>
+			<name>Magic 2010</name>
+			<name lang="it">Magic 2010</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2009-08</launch>
+		<code> </code>
+		<names>
+			<name>Commander Theme Decks</name>
+		</names>
+		<online />
+	</edition>
+	<edition>
+		<launch>2009-08</launch>
+		<code> V09 </code>
+		<image>V09_symbol.png</image>
+		<names>
+			<name>From the Vault: Exiled</name>
+		</names>
+		<vault />
+		<cards>
+			<other>15</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2009-09</launch>
+		<code> HOP </code>
+		<image>Planechase_expansion_symbol.png</image>
+		<names>
+			<name>Planechase (2009)</name>
+		</names>
+		<preconstructed decks="4" type="planechase">
+			<size>60</size>
+		</preconstructed>
+		<cards>
+			<plane>40</plane>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2009-09</launch>
+		<code> ME3 </code>
+		<image>Masters_Edition_III_symbol.png</image>
+		<names>
+			<name>Masters Edition III</name>
+		</names>
+		<cards>
+			<common>75</common>
+			<uncommon>70</uncommon>
+			<rare>70</rare>
+			<lands>15</lands>
+		</cards>
+		<online />
+	</edition>
+	<edition>
+		<launch>2009-10</launch>
+		<code> ZEN </code>
+		<image>Zendikar_symbol.png</image>
+		<names>
+			<name>Zendikar</name>
+			<name lang="it">Zendikar</name>
+            <name lang="es">Zendikar</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2009-10</launch>
+		<code> DDD </code>
+		<image>DDD_symbol.png</image>
+		<names>
+			<name>Duel Decks: Garruk vs. Liliana</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2009-11</launch>
+		<code> H09 </code>
+		<image>H09_symbol.png</image>
+		<names>
+			<name>Premium Deck Series: Slivers</name>
+		</names>
+		<premium decks="1" attributes="foil">
+			<size>60</size>
+		</premium>
+	</edition>
+	<edition>
+		<launch>2010-02</launch>
+		<code> WWK </code>
+		<image>Worldwake_symbol.png</image>
+		<names>
+			<name>Worldwake</name>
+			<name lang="it">Worldwake</name>
+            <name lang="es">Despertar del mundo</name>
+        </names>
+		<cards>
+			<common>60</common>
+			<uncommon>40</uncommon>
+			<rare>35</rare>
+			<mythic>10</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2010-03</launch>
+		<code> DDE </code>
+		<image>DDE_symbol.png</image>
+		<names>
+			<name>Duel Decks: Phyrexia vs. The Coalition</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2010-04</launch>
+		<code> ROE </code>
+		<image>Rise_of_the_Eldrazi_symbol.png</image>
+		<names>
+			<name>Rise of the Eldrazi</name>
+			<name lang="it">Ascesa degli Eldrazi</name>
+            <name lang="es">Levantamiento de los Eldrazi</name>
+		</names>
+		<cards>
+			<common>100</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2010-05</launch>
+		<code> </code>
+		<names>
+			<name>Deck Builder's Toolkit (2010)</name>
+		</names>
+		<deckbuilder>
+			<size>285</size>
+		</deckbuilder>
+	</edition>
+	<edition>
+		<launch>2010-06</launch>
+		<code> DPA </code>
+		<image>Duels_of_the_Planeswalkers_symbol.png</image>
+		<names>
+			<name>Duels of the Planeswalkers (decks)</name>
+		</names>
+		<preconstructed decks="5">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2010-06</launch>
+		<code> ARC </code>
+		<image>Archenemy_expansion_symbol.png</image>
+		<names>
+			<name>Archenemy</name>
+		</names>
+		<preconstructed decks="5">
+			<size>60</size>
+		</preconstructed>
+		<cards>
+			<oversize>20</oversize>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2010-07</launch>
+		<code> M11 </code>
+		<image>M11_symbol.png</image>
+		<names>
+			<name>Magic 2011</name>
+			<name lang="it">Magic 2011</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2010-08</launch>
+		<code> V10 </code>
+		<image>V10_symbol.png</image>
+		<names>
+			<name>From the Vault: Relics</name>
+		</names>
+		<vault />
+		<cards>
+			<other>15</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2010-09</launch>
+		<code> DDF </code>
+		<image>DDF_symbol.png</image>
+		<names>
+			<name>Duel Decks: Elspeth vs. Tezzeret</name>
+            <name lang="es">Duel Decks: Elspeth vs. Tezzeret</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2010-10</launch>
+		<code> SOM </code>
+		<image>SOM_symbol.png</image>
+		<names>
+			<name>Scars of Mirrodin</name>
+			<name lang="it">Cicatrici di Mirrodin</name>
+            <name lang="es">Cicatrices de Mirrodin</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2010-11</launch>
+		<code> PD2 </code>
+		<image>PD2_symbol.png</image>
+		<names>
+			<name>Premium Deck Series: Fire &amp; Lightning</name>
+		</names>
+		<premium decks="1" attributes="foil">
+			<size>60</size>
+		</premium>
+	</edition>
+	<edition>
+		<launch>2011-01</launch>
+		<code> ME4 </code>
+		<image>Masters_Edition_IV_symbol.png</image>
+		<names>
+			<name>Masters Edition IV</name>
+		</names>
+		<cards>
+			<common>80</common>
+			<uncommon>72</uncommon>
+			<rare>105</rare>
+			<lands>12</lands>
+		</cards>
+		<online />
+	</edition>
+	<edition>
+		<launch>2011-02</launch>
+		<code> MBS </code>
+		<image>MBS_symbol.jpg</image>
+		<names>
+			<name>Mirrodin Besieged</name>
+			<name lang="it">Mirrodin Assediato</name>
+            <name lang="es">Nueva Sitiado</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>40</uncommon>
+			<rare>35</rare>
+			<mythic>10</mythic>
+			<lands>10</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2011-03</launch>
+		<code> </code>
+		<names>
+			<name>Deck Builder's Toolkit (2011)</name>
+		</names>
+	</edition>
+	<edition>
+		<launch>2011-04</launch>
+		<code> DDG </code>
+		<image>DDG_symbol.png</image>
+		<names>
+			<name>Duel Decks: Knights vs. Dragons</name>
+			<name lang="it">Duel Decks: Knights vs. Dragons</name>
+            <name lang="es">Duel Decks: Knights vs. Dragons</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2011-05</launch>
+		<code> NPH </code>
+		<image>NPH_symbol.jpg</image>
+		<names>
+			<name>New Phyrexia</name>
+			<name lang="it">Nuova Phyrexia</name>
+            <name lang="es">Nueva Phyrexia</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>40</uncommon>
+			<rare>35</rare>
+			<mythic>10</mythic>
+			<lands>10</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2011-06</launch>
+		<code> CMD </code>
+		<image>MTGCommanderExpansion.jpg</image>
+		<names>
+			<name>Commander (2011)</name>
+			<name lang="it">Commander 2011</name>
+		</names>
+		<preconstructed decks="5" type="commander">
+			<size>100</size>
+		</preconstructed>
+		<cards>
+			<oversize>3</oversize>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2011-07</launch>
+		<code> M12 </code>
+		<image>M12_symbol_c.png</image>
+		<names>
+			<name>Magic 2012</name>
+			<name lang="it">Magic 2012</name>
+			<name lang="es">Magic 2012</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2011-08</launch>
+		<code> V11 </code>
+		<image>V11_symbol.jpg</image>
+		<names>
+			<name>From the Vault: Legends</name>
+		</names>
+		<vault />
+		<cards>
+			<other>15</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2011-09</launch>
+		<code> DDH </code>
+		<image>DDH_symbol.jpg</image>
+		<names>
+			<name>Duel Decks: Ajani vs. Nicol Bolas</name>
+			<name lang="it">Duel Decks: Ajani vs. Nicol Bolas</name>
+			<name lang="es">Duel Decks: Ajani vs. Nicol Bolas</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2011-09</launch>
+		<code> ISD </code>
+		<image>ISD_symbol.jpg</image>
+		<names>
+			<name>Innistrad</name>
+			<name lang="it">Innistrad</name>
+			<name lang="es">Innistrad</name>
+		</names>
+		<cards>
+			<common>107</common>
+			<uncommon>67</uncommon>
+			<rare>59</rare>
+			<mythic>16</mythic>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2011-11</launch>
+		<code> PD3 </code>
+		<image>PD3_symbol.jpg</image>
+		<names>
+			<name>Premium Deck Series: Graveborn</name>
+		</names>
+		<premium decks="1" attributes="foil">
+			<size>60</size>
+		</premium>
+	</edition>
+	<edition>
+		<launch>2012-02</launch>
+		<code> DKA </code>
+		<image>DKA_symbol.jpg</image>
+		<names>
+			<name>Dark Ascension</name>
+			<name lang="it">Ascesa Oscura</name>
+			<name lang="es">Ascenso Siniestro</name>
+		</names>
+		<cards>
+			<common>64</common>
+			<uncommon>44</uncommon>
+			<rare>38</rare>
+			<mythic>12</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2012-03</launch>
+		<code> DDI </code>
+		<image>DDI_symbol.jpg</image>
+		<names>
+			<name>Duel Decks: Venser vs. Koth</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2012-05</launch>
+		<code> AVR </code>
+		<image>AVR_symbol.jpg</image>
+		<names>
+			<name>Avacyn Restored</name>
+			<name lang="it">Ritorno di Avacyn</name>
+			<name lang="es">Avacyn Restituida</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2012-05</launch>
+		<code> PC2 </code>
+		<image>Planechase12012_symbol.jpg</image>
+		<names>
+			<name>Planechase (2012)</name>
+			<name lang="it">Planechase (2012)</name>
+			<name lang="es">Planechase (2012)</name>
+		</names>
+		<preconstructed decks="4" type="planechase">
+			<size>60</size>
+		</preconstructed>
+		<cards>
+			<plane>40</plane>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2012-07</launch>
+		<code> M13 </code>
+		<image>M13_symbol_c.png</image>
+		<names>
+			<name>Magic 2013</name>
+			<name lang="it">Magic 2013</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2012-08</launch>
+		<code> V12 </code>
+		<image>V12_symbol.jpg</image>
+		<names>
+			<name>From the Vault: Realms</name>
+		</names>
+		<vault />
+		<cards>
+			<other>15</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2012-09</launch>
+		<code> DDJ </code>
+		<image>DDJ_symbol.jpg</image>
+		<names>
+			<name>Duel Decks: Izzet vs. Golgari</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2012-10</launch>
+		<code> RTR </code>
+		<image>RTR_symbol.jpg</image>
+		<names>
+			<name>Return to Ravnica</name>
+			<name lang="it">Ritorno a Ravnica</name>
+			<name lang="es">Regreso á Ravnica</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>25</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2012-11</launch>
+		<code> CMA </code>
+		<image>CMA_symbol.jpg</image>
+		<names>
+			<name>Commander's Arsenal</name>
+		</names>
+		<cards>
+			<other>18</other>
+			<oversize>10</oversize>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2013-02</launch>
+		<code> GTC </code>
+		<image>GTC_symbol.jpg</image>
+		<names>
+			<name>Gatecrash</name>
+			<name lang="it">Irruzione</name>
+			<name lang="es">Intrusión</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2013-03</launch>
+		<code> DDK </code>
+		<image>SVT_symbol.jpg</image>
+		<names>
+			<name>Duel Decks: Sorin vs. Tibalt</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2013-05</launch>
+		<code> DGM </code>
+		<image>DGM_symbol.jpg</image>
+		<names>
+			<name>Dragon's Maze</name>
+			<name lang="it">Labirinto del Drago</name>
+			<name lang="es">Labirinto del Dragón</name>
+		</names>
+		<cards>
+			<common>70</common>
+			<uncommon>40</uncommon>
+			<rare>35</rare>
+			<mythic>11</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2013-06</launch>
+		<code> MMA </code>
+		<image>MM1.png</image>
+		<names>
+			<name>Modern Masters (2013)</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2013-07</launch>
+		<code> M14 </code>
+		<image>M14_symbol_c.jpg</image>
+		<names>
+			<name>Magic 2014</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2013-08</launch>
+		<code> V13 </code>
+		<image>V13symbol.jpg</image>
+		<names>
+			<name>From the Vault: Twenty</name>
+		</names>
+		<vault />
+		<cards>
+			<other>20</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2013-09</launch>
+		<code> DDL </code>
+		<image>HVMsymbol.jpg</image>
+		<names>
+			<name>Duel Decks: Heroes vs. Monsters</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2013-09</launch>
+		<code> THS </code>
+		<image>THS_symbol.png</image>
+		<names>
+			<name>Theros</name>
+			<name lang="it">Theros</name>
+			<name lang="es">Theros</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>60</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2013-11</launch>
+		<code> C13 </code>
+		<image>C13symbol.png</image>
+		<names>
+			<name>Commander 2013</name>
+			<name lang="it">Commander 2013</name>
+		</names>
+		<preconstructed decks="5" type="commander">
+			<size>100</size>
+		</preconstructed>
+		<cards>
+			<oversize>3</oversize>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-02</launch>
+		<code> BNG </code>
+		<image>BNGsymbol.jpg</image>
+		<names>
+			<name>Born of the Gods</name>
+			<name lang="it">Figli degli dei</name>
+			<name lang="es">Nacidos de los dioses</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>60</uncommon>
+			<rare>35</rare>
+			<mythic>10</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-03</launch>
+		<code> DDM </code>
+		<image>Symbol_Jace_vs_Vraska.jpg</image>
+		<names>
+			<name>Duel Decks: Jace vs. Vraska</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2014-05</launch>
+		<code> JOU </code>
+		<image>JOU_symbol.png</image>
+		<names>
+			<name>Journey into Nyx</name>
+			<name lang="it">Viaggio verso Nyx</name>
+			<name lang="es">Travesía hacia Nyx</name>
+		</names>
+		<cards>
+			<common>60</common>
+			<uncommon>60</uncommon>
+			<rare>35</rare>
+			<mythic>10</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-05</launch>
+		<code> MD1 </code>
+		<image>MED_symbol.jpg</image>
+		<names>
+			<name>Modern Event Deck</name>
+		</names>
+		<preconstructed decks="1">
+			<size>75</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2014-06</launch>
+		<code> CNS </code>
+		<image>Symbol_Conspiracy.jpg</image>
+		<names>
+			<name>Conspiracy</name>
+		</names>
+		<cards>
+			<common>89</common>
+			<uncommon>68</uncommon>
+			<rare>43</rare>
+			<mythic>10</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-06</launch>
+		<code> VMA </code>
+		<image>Vintage_masters_symbol.jpg</image>
+		<names>
+			<name>Vintage Masters</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>105</rare>
+			<mythic>30</mythic>
+			<other>9</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-07</launch>
+		<code> M15 </code>
+		<image>M15_symbol.jpg</image>
+		<names>
+			<name>Magic 2015</name>
+			<name lang="it">Magic 2015</name>
+			<name lang="es">Magic 2015</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+			<other>15</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-08</launch>
+		<code> V14</code>
+		<image>ANH_symbol.jpg</image>
+		<names>
+			<name>From the Vault: Annihilation</name>
+		</names>
+		<vault />
+		<cards>
+			<other>15</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-10</launch>
+		<code> DDN </code>
+		<image>Symbol_Speed_vs_Cunning.jpg</image>
+		<names>
+			<name>Duel Decks: Speed vs. Cunning</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2014-10</launch>
+		<code> KTK </code>
+		<image>Symbol_Khans_of_Tarkir.png</image>
+		<names>
+			<name>Khans of Tarkir</name>
+			<name lang="it">I Khan di Tarkir</name>
+			<name lang="es">Kans de Tarkir</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-11</launch>
+		<code> C14 </code>
+		<image>Symbol_Commander_2014.jpg</image>
+		<names>
+			<name>Commander 2014</name>
+			<name lang="it">Commander 2014</name>
+		</names>
+		<preconstructed decks="5" type="commander">
+			<size>100</size>
+		</preconstructed>
+		<cards>
+			<oversize>1</oversize>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2014-12</launch>
+		<code> DD3 </code>
+		<names>
+			<name>Duel Decks Anthology</name>
+		</names>
+		<preconstructed decks="8" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2015-01</launch>
+		<code> FRF </code>
+		<image>Fate_Reforged.jpg</image>
+		<names>
+			<name>Fate Reforged</name>
+			<name lang="it">Riforgiare il destino</name>
+			<name lang="es">Destino reescrito</name>
+		</names>
+		<cards>
+			<common>70</common>
+			<uncommon>60</uncommon>
+			<rare>35</rare>
+			<mythic>10</mythic>
+			<lands>10</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2015-02</launch>
+		<code> DDO </code>
+		<image>Symbol_Elspeth_vs_Kiora.png</image>
+		<names>
+			<name>Duel Decks: Elspeth vs. Kiora</name>
+			<name lang="it">Duel Decks: Elspeth vs. Kiora</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2015-03</launch>
+		<code> DTK </code>
+		<image>Symbol_Dragons_of_Tarkir.png</image>
+		<names>
+			<name>Dragons of Tarkir</name>
+			<name lang="it">Draghi di Tarkir</name>
+			<name lang="es">Dragones de Tarkir</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2015-05</launch>
+		<code> TPR </code>
+		<image>TPR_Icon_V2.png</image>
+		<names>
+			<name>Tempest Remastered</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2015-05</launch>
+		<code> MM2 </code>
+		<image>MM2.jpg</image>
+		<names>
+			<name>Modern Masters 2015</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2015-07</launch>
+		<code> ORI </code>
+		<image>ORI_symbol.jpg</image>
+		<names>
+			<name>Magic Origins</name>
+			<name lang="it">Origini</name>
+			<name lang="es">Magic Orígenes</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>55</rare>
+			<mythic>16</mythic>
+			<lands>20</lands>
+			<other>16</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2015-08</launch>
+		<code> V15 </code>
+		<image>FTVangels_symbol.png</image>
+		<names>
+			<name>From the Vault: Angels</name>
+		</names>
+		<vault />
+		<cards>
+			<other>15</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2015-08</launch>
+		<code> DDP </code>
+		<image>ZVE_symbol.png</image>
+		<names>
+			<name>Duel Decks: Zendikar vs. Eldrazi</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2015-10</launch>
+		<code> BFZ </code>
+		<image>BFZ_symbol.png</image>
+		<names>
+			<name>Battle for Zendikar</name>
+			<name lang="it">Battaglia per Zendikar</name>
+			<name lang="es">La batalla por Zendikar</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>25</lands>
+			<other>25</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2015-10/2016-01</launch>
+		<code> EXP </code>
+		<image>EXP_symbol.png</image>
+		<names>
+			<name>Zendikar Expeditions</name>
+		</names>
+		<cards>
+			<mythic>45</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2015-11</launch>
+		<code> C15 </code>
+		<image>C15_symbol.png</image>
+		<names>
+			<name>Commander 2015</name>
+			<name lang="it">Commander 2015</name>
+		</names>
+		<preconstructed decks="5" type="commander">
+			<size>100</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2015-11</launch>
+		<code> </code>
+		<image>Legendary_cube_symbol.png</image>
+		<names>
+			<name>Legendary Cube</name>
+		</names>
+		<online />
+	</edition>
+	<edition>
+		<launch>2016-01</launch>
+		<code> OGW </code>
+		<image>OGW_ExpansionSymbol.png</image>
+		<names>
+			<name>Oath of the Gatewatch</name>
+			<name lang="it">Giuramento dei Guardiani</name>
+			<name lang="es">El juramento de los Guardianes</name>
+		</names>
+		<cards>
+			<common>70</common>
+			<uncommon>60</uncommon>
+			<rare>42</rare>
+			<mythic>12</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2016-02</launch>
+		<code> DDQ </code>
+		<image>BVC_symbol.png</image>
+		<names>
+			<name>Duel Decks: Blessed vs. Cursed</name>
+		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2016-04</launch>
+		<code> W16 </code>
+		<image>W16_C.png</image>
+		<names>
+			<name>Welcome Deck 2016</name>
+		</names>
+	</edition>
+	<edition>
+		<launch>2016-04</launch>
+		<code> SOI </code>
+		<image>SOI_ExpansionSymbol.png</image>
+		<names>
+			<name>Shadows over Innistrad</name>
+			<name lang="it">Ombre su Innistrad</name>
+			<name lang="es">Sombras sobre Innistrad</name>
+		</names>
+		<cards>
+			<common>105</common>
+			<uncommon>100</uncommon>
+			<rare>59</rare>
+			<mythic>18</mythic>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2016-06</launch>
+		<code>EMA</code>
+		<image>ETM_symbol.png</image>
+		<names>
+			<name>Eternal Masters</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2016-07</launch>
+		<code>EMN</code>
+		<image>EMN_symbol.png</image>
+		<names>
+			<name>Eldritch Moon</name>
+			<name lang="it">Luna Spettrale</name>
+			<name lang="es">Luna de Horrores</name>
+		</names>
+		<cards>
+			<common>74</common>
+			<uncommon>70</uncommon>
+			<rare>47</rare>
+			<mythic>14</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2016-08</launch>
+		<code>V16</code>
+		<image>V16_SYMBOL.png</image>
+		<names>
+			<name>From the Vault: Lore</name>
+		</names>
+		<cards>
+			<other>15</other>
+		</cards>
+		<vault />
+	</edition>
+	<edition>
+		<launch>2016-09</launch>
+		<code>KLD</code>
+		<image>KLD_SYMBOL.png</image>
+		<names>
+			<name>Kaladesh</name>
+		</names>
+	</edition>
+</root>
