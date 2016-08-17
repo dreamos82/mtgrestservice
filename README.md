@@ -21,6 +21,11 @@ In order to compile this tool you must have go language installed. And you need 
 
 * gorilla/mux
 
+To download this package just type in your go workspace: 
+```bash
+go get -u github.com/gorilla/mux
+```
+
 Then to compile just move into project directory and run: 
 
 ```bash
@@ -30,7 +35,7 @@ go install
 # Launch
 If it is the first time that you run this tool, make sure to copy the asset folder into the same folder of the executable file (in the future the path will be provided using a configuration file) 
 
-Cd into the folder where the executable is installed and run: 
+Cd into the folder where the executable is installed and run (if you have compiled it from sources it should in your workspace bin folder): 
 
 ```bash
 mtgrestservice
