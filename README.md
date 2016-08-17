@@ -48,7 +48,7 @@ I will be very happy if you want to help me with this project, you can do it in 
 3. Help me in the development
 4. Using it :)
 
-# Know issues/TODO
+# Known issues/TODO
 
 There are several known issue:
 * When the information is not available the node will be inserted even if is empty.
