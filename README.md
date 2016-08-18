@@ -42,8 +42,8 @@ mtgrestservice
 ```
 
 Once the service is started just try to access: 
-* http://<hostname>:8081/listeditions for a list of all editions in json format
-* http://<hostname>:8081/getedition/{key}/{format} where key is the edition code, and format is xml or json, will return the information available for the edition specified in key in the selected format.
+* http://&lt;hostname&gt;:8081/listeditions for a list of all editions in json format
+* http://&lt;hostname&gt;:8081/getedition/{key}/{format} where key is the edition code, and format is xml or json, will return the information available for the edition specified in key in the selected format.
  
 # Help
 
