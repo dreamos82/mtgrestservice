@@ -3,6 +3,7 @@ package datamodel
 import (
   "fmt"
   "encoding/xml"
+  "encoding/json"
   "os"
   "io/ioutil"
 )
@@ -66,4 +67,27 @@ func LoadMap() (map[string]Edition, []Edition) {
         editionsMap[edition.Code] = edition
   }
   return editionsMap, q.Editions
+}
+
+func (u Edition) MarshalJSON() ([]byte, error) {
+  var vaultValue bool
+  vaultValue = true
+  var onlineValue bool
+  vaultValue = false
+  if(u.Vault == nil) {
+    vaultValue = false
+  }
+  if(u.Online == nil) {
+    onlineValue = false
+  }
+  type AliasEdition Edition
+	return json.Marshal(struct {
+    AliasEdition
+    Vault bool `json:"vault"`
+    Online bool `json:"online"`
+	}{
+    AliasEdition:   AliasEdition(u),
+		Vault:       vaultValue,
+		Online:      onlineValue,
+	})
 }
