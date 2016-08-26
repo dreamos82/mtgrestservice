@@ -34,6 +34,6 @@ func main() {
   fmt.Println(EditionsMap["EMN"])*/
   /*EditionsMap = datamodel.LoadMap()
   fmt.Println(EditionsMap["EMN"])*/
-  fmt.Println("Launching sever")
+  fmt.Println("Launching server")
   server.InitServer()
 }

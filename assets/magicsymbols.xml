@@ -2,7 +2,7 @@
 <root>
 	<edition>
 		<launch>1993-08</launch>
-		<code> LEA (A) </code>
+		<code>LEA (A)</code>
 		<names>
 			<name>Alpha</name>
 			<name lang="it">Alfa</name>
@@ -16,7 +16,7 @@
 	</edition>
 	<edition>
 		<launch>1993-10</launch>
-		<code> LEB (B) </code>
+		<code>LEB (B)</code>
 		<names>
 			<name>Beta</name>
 		</names>
@@ -29,7 +29,7 @@
 	</edition>
 	<edition>
 		<launch>1993-12</launch>
-		<code> 2ED (U) </code>
+		<code>2ED (U)</code>
 		<names>
 			<name>Unlimited Edition</name>
 		</names>
@@ -42,7 +42,7 @@
 	</edition>
 	<edition>
 		<launch>1993-12</launch>
-		<code> ARN (AN) </code>
+		<code>ARN (AN)</code>
 		<image>Arabian_Nights_symbol.png</image>
 		<names>
 			<name>Arabian Nights</name>
@@ -55,7 +55,7 @@
 	</edition>
 	<edition>
 		<launch>1994-03</launch>
-		<code>ATQ (AQ) </code>
+		<code>ATQ (AQ)</code>
 		<image>ATQ_symbol.png</image>
 		<names>
 			<name>Antiquities</name>
@@ -68,7 +68,7 @@
 	</edition>
 	<edition>
 		<launch>1994-04</launch>
-		<code> 3ED (RV) </code>
+		<code>3ED (RV)</code>
 		<names>
 			<name>Revised Edition</name>
 		</names>
@@ -81,7 +81,7 @@
 	</edition>
 	<edition>
 		<launch>1994-06</launch>
-		<code> LEG (LE) </code>
+		<code>LEG (LE)</code>
 		<image>LEG_symbol.png</image>
 		<names>
 			<name>Legends</name>
@@ -95,7 +95,7 @@
 	</edition>
 	<edition>
 		<launch>1994-08</launch>
-		<code> DRK (DK) </code>
+		<code>DRK (DK)</code>
 		<image>The_Dark_symbol.png</image>
 		<names>
 			<name>The Dark</name>
@@ -109,7 +109,7 @@
 	</edition>
 	<edition>
 		<launch>1994-11</launch>
-		<code> FEM (FE) </code>
+		<code>FEM (FE)</code>
 		<image>FEM_symbol.png</image>
 		<names>
 			<name>Fallen Empires</name>
@@ -122,7 +122,7 @@
 	</edition>
 	<edition>
 		<launch>1995-05</launch>
-		<code> 4ED (4E) </code>
+		<code>4ED (4E)</code>
 		<names>
 			<name>4th Edition</name>
 			<name lang="it">Quarta Edizione</name>
@@ -137,7 +137,7 @@
 	</edition>
 	<edition>
 		<launch>1995-06</launch>
-		<code> ICE (IA) </code>
+		<code>ICE (IA)</code>
 		<image>ICE_symbol.png</image>
 		<names>
 			<name>Ice Age</name>
@@ -152,7 +152,7 @@
 	</edition>
 	<edition>
 		<launch>1995-07</launch>
-		<code> CHR (CH) </code>
+		<code>CHR (CH)</code>
 		<image>CHR_symbol.png</image>
 		<names>
 			<name>Chronicles</name>
@@ -165,7 +165,7 @@
 	</edition>
 	<edition>
 		<launch>1995-08</launch>
-		<code> </code>
+		<code></code>
 		<names>
 			<name>Renaissance</name>
 			<name lang="it">Rinascimento</name>
@@ -178,7 +178,7 @@
 	</edition>
 	<edition>
 		<launch>1995-10</launch>
-		<code> HML (HL) </code>
+		<code>HML (HL)</code>
 		<image>HML_symbol.png</image>
 		<names>
 			<name>Homelands</name>
@@ -193,7 +193,7 @@
 	</edition>
 	<edition>
 		<launch>1996-06</launch>
-		<code> ALL (AL) </code>
+		<code>ALL (AL)</code>
 		<image>ALL_symbol.png</image>
 		<names>
 			<name>Alliances</name>
@@ -208,7 +208,7 @@
 	</edition>
 	<edition>
 		<launch>1996-10</launch>
-		<code> MIR (MI) </code>
+		<code>MIR (MI)</code>
 		<image>MIR_symbol.png</image>
 		<names>
 			<name>Mirage</name>
@@ -224,7 +224,7 @@
 	</edition>
 	<edition>
 		<launch>1997-02</launch>
-		<code> VIS (VI) </code>
+		<code>VIS (VI)</code>
 		<image>VIS_symbol.png</image>
 		<names>
 			<name>Visions</name>
@@ -239,7 +239,7 @@
 	</edition>
 	<edition>
 		<launch>1997-03</launch>
-		<code> 5ED (5E) </code>
+		<code>5ED (5E)</code>
 		<image>5ED_symbol.gif</image>
 		<names>
 			<name>5th Edition</name>
@@ -255,7 +255,7 @@
 	</edition>
 	<edition>
 		<launch>1997-05</launch>
-		<code> POR (PO) </code>
+		<code>POR (PO)</code>
 		<image>POR_symbol.gif</image>
 		<names>
 			<name>Portal</name>
@@ -270,7 +270,7 @@
 	</edition>
 	<edition>
 		<launch>1997-06</launch>
-		<code> WTH (WL) </code>
+		<code>WTH (WL)</code>
 		<image>WTH_symbol.png</image>
 		<names>
 			<name>Weatherlight</name>
@@ -285,7 +285,7 @@
 	</edition>
 	<edition>
 		<launch>1997-10</launch>
-		<code> TMP (TE) </code>
+		<code>TMP (TE)</code>
 		<image>TMP_symbol.png</image>
 		<names>
 			<name>Tempest</name>
@@ -301,7 +301,7 @@
 	</edition>
 	<edition>
 		<launch>1998-02</launch>
-		<code> STH (ST) </code>
+		<code>STH (ST)</code>
 		<image>STH_symbol.png</image>
 		<names>
 			<name>Stronghold</name>
@@ -316,7 +316,7 @@
 	</edition>
 	<edition>
 		<launch>1998-06</launch>
-		<code> EXO (EX) </code>
+		<code>EXO (EX)</code>
 		<image>EXO_symbol.png</image>
 		<names>
 			<name>Exodus</name>
@@ -331,7 +331,7 @@
 	</edition>
 	<edition>
 		<launch>1998-06</launch>
-		<code> PO2 (P2) </code>
+		<code>PO2 (P2)</code>
 		<image>Pentagon.gif</image>
 		<names>
 			<name>Portal Second Age</name>
@@ -346,7 +346,7 @@
 	</edition>
 	<edition>
 		<launch>1998-08</launch>
-		<code> UGL (UG) </code>
+		<code>UGL (UG)</code>
 		<image>Unglued_symbol.gif</image>
 		<names>
 			<name>Unglued</name>
@@ -360,7 +360,7 @@
 	</edition>
 	<edition>
 		<launch>1998-10</launch>
-		<code> USG (US) </code>
+		<code>USG (US)</code>
 		<image>Urzas_Saga_symbol.png</image>
 		<names>
 			<name>Urza's Saga</name>
@@ -376,14 +376,14 @@
 	</edition>
 	<edition>
 		<launch>1998-11</launch>
-		<code> ATH </code>
+		<code>ATH</code>
 		<names>
 			<name>Anthologies</name>
 		</names>
 	</edition>
 	<edition>
 		<launch>1999-02</launch>
-		<code> ULG (UL) </code>
+		<code>ULG (UL)</code>
 		<image>Urzas_Legacy_symbol.png</image>
 		<names>
 			<name>Urza's Legacy</name>
@@ -398,7 +398,7 @@
 	</edition>
 	<edition>
 		<launch>1999-04</launch>
-		<code> 6ED (6E) </code>
+		<code>6ED (6E)</code>
 		<image>6ED_symbol.png</image>
 		<names>
 			<name>6th Edition</name>
@@ -412,7 +412,7 @@
 	</edition>
 	<edition>
 		<launch>1999-06</launch>
-		<code> UDS (UD) </code>
+		<code>UDS (UD)</code>
 		<image>Urzas_Destiny_symbol.png</image>
 		<names>
 			<name>Urza's Destiny</name>
@@ -427,7 +427,7 @@
 	</edition>
 	<edition>
 		<launch>1999-07</launch>
-		<code> PTK (P3) </code>
+		<code>PTK (P3)</code>
 		<image>P3K_symbol.gif</image>
 		<names>
 			<name>Portal Three Kingdoms</name>
@@ -441,7 +441,7 @@
 	</edition>
 	<edition>
 		<launch>1999-08</launch>
-		<code> S99 </code>
+		<code>S99</code>
 		<image>Starter_1999_symbol.gif</image>
 		<names>
 			<name>Starter 1999</name>
@@ -455,7 +455,7 @@
 	</edition>
 	<edition>
 		<launch>1999-09</launch>
-		<code> MMQ (MM) </code>
+		<code>MMQ (MM)</code>
 		<image>MMQ_symbol.png</image>
 		<names>
 			<name>Mercadian Masques</name>
@@ -471,7 +471,7 @@
 	</edition>
 	<edition>
 		<launch>1999-11</launch>
-		<code> BRB </code>
+		<code>BRB</code>
 		<names>
 			<name>Battle Royale</name>
 		</names>
@@ -481,7 +481,7 @@
 	</edition>
 	<edition>
 		<launch>2000-02</launch>
-		<code> NEM (NE) </code>
+		<code>NEM (NE)</code>
 		<image>NEM_symbol.png</image>
 		<names>
 			<name>Nemesis</name>
@@ -496,7 +496,7 @@
 	</edition>
 	<edition>
 		<launch>2000-04</launch>
-		<code> S00 </code>
+		<code>S00</code>
 		<names>
 			<name>Starter 2000</name>
 			<name lang="it">Starter 2000</name>
@@ -511,7 +511,7 @@
 	</edition>
 	<edition>
 		<launch>2000-06</launch>
-		<code> PCY (PR) </code>
+		<code>PCY (PR)</code>
 		<image>PCY_symbol.png</image>
 		<names>
 			<name>Prophecy</name>
@@ -526,7 +526,7 @@
 	</edition>
 	<edition>
 		<launch>2000-09</launch>
-		<code> INV (IN) </code>
+		<code>INV (IN)</code>
 		<image>INV_symbol.png</image>
 		<names>
 			<name>Invasion</name>
@@ -542,7 +542,7 @@
 	</edition>
 	<edition>
 		<launch>2000-10</launch>
-		<code> BTD </code>
+		<code>BTD</code>
 		<image>BTD_symbol.png</image>
 		<names>
 			<name>Beatdown</name>
@@ -553,7 +553,7 @@
 	</edition>
 	<edition>
 		<launch>2001-01</launch>
-		<code> PLS (PL) </code>
+		<code>PLS (PL)</code>
 		<image>PLS_symbol.png</image>
 		<names>
 			<name>Planeshift</name>
@@ -568,7 +568,7 @@
 	</edition>
 	<edition>
 		<launch>2001-04</launch>
-		<code> 7ED (7E) </code>
+		<code>7ED (7E)</code>
 		<image>7ED_symbol.png</image>
 		<names>
 			<name>7th Edition</name>
@@ -584,7 +584,7 @@
 	</edition>
 	<edition>
 		<launch>2001-05</launch>
-		<code> APC (AP) </code>
+		<code>APC (AP)</code>
 		<image>APC_symbol.png</image>
 		<names>
 			<name>Apocalypse</name>
@@ -599,7 +599,7 @@
 	</edition>
 	<edition>
 		<launch>2001-10</launch>
-		<code> ODY (OD) </code>
+		<code>ODY (OD)</code>
 		<image>ODY_symbol.png</image>
 		<names>
 			<name>Odyssey</name>
@@ -615,7 +615,7 @@
 	</edition>
 	<edition>
 		<launch>2001-12</launch>
-		<code> DKM </code>
+		<code>DKM</code>
 		<image>DKM_symbol.png</image>
 		<names>
 			<name>Deckmasters 2001</name>
@@ -626,7 +626,7 @@
 	</edition>
 	<edition>
 		<launch>2002-02</launch>
-		<code> TOR (TO) </code>
+		<code>TOR (TO)</code>
 		<image>TOR_symbol.png</image>
 		<names>
 			<name>Torment</name>
@@ -641,7 +641,7 @@
 	</edition>
 	<edition>
 		<launch>2002-05</launch>
-		<code> JUD (JU) </code>
+		<code>JUD (JU)</code>
 		<image>JUD_symbol.png</image>
 		<names>
 			<name>Judgment</name>
@@ -656,7 +656,7 @@
 	</edition>
 	<edition>
 		<launch>2002-10</launch>
-		<code> ONS (ON) </code>
+		<code>ONS (ON)</code>
 		<image>ONS_symbol.png</image>
 		<names>
 			<name>Onslaught</name>
@@ -672,7 +672,7 @@
 	</edition>
 	<edition>
 		<launch>2003-01</launch>
-		<code> LGN (LE) </code>
+		<code>LGN (LE)</code>
 		<image>LGN_symbol.png</image>
 		<names>
 			<name>Legions</name>
@@ -687,7 +687,7 @@
 	</edition>
 	<edition>
 		<launch>2003-05</launch>
-		<code>SCG (SC) </code>
+		<code>SCG (SC)</code>
 		<image>SCG_symbol.gif</image>
 		<names>
 			<name>Scourge</name>
@@ -702,7 +702,7 @@
 	</edition>
 	<edition>
 		<launch>2003-07</launch>
-		<code> 8ED (8E) </code>
+		<code>8ED (8E)</code>
 		<image>8ED_symbol.gif</image>
 		<names>
 			<name>8th Edition</name>
@@ -719,7 +719,7 @@
 	</edition>
 	<edition>
 		<launch>2003-10</launch>
-		<code> MRD </code>
+		<code>MRD</code>
 		<image>MRD_symbol.png</image>
 		<names>
 			<name>Mirrodin</name>
@@ -735,7 +735,7 @@
 	</edition>
 	<edition>
 		<launch>2004-02</launch>
-		<code> DST </code>
+		<code>DST</code>
 		<image>DST_symbol.png</image>
 		<names>
 			<name>Darksteel</name>
@@ -750,7 +750,7 @@
 	</edition>
 	<edition>
 		<launch>2004-06</launch>
-		<code> 5DN </code>
+		<code>5DN</code>
 		<image>5DN_symbol.png</image>
 		<names>
 			<name>Fifth Dawn</name>
@@ -765,7 +765,7 @@
 	</edition>
 	<edition>
 		<launch>2004-10</launch>
-		<code> CHK </code>
+		<code>CHK</code>
 		<image>CHK_symbol.png</image>
 		<names>
 			<name>Champions of Kamigawa</name>
@@ -781,7 +781,7 @@
 	</edition>
 	<edition>
 		<launch>2004-11</launch>
-		<code> UNH </code>
+		<code>UNH</code>
 		<image>Unhinged_symbol.gif</image>
 		<names>
 			<name>Unhinged</name>
@@ -796,7 +796,7 @@
 	</edition>
 	<edition>
 		<launch>2005-02</launch>
-		<code> BOK </code>
+		<code>BOK</code>
 		<image>BOK_symbol.png</image>
 		<names>
 			<name>Betrayers of Kamigawa</name>
@@ -811,7 +811,7 @@
 	</edition>
 	<edition>
 		<launch>2005-06</launch>
-		<code> SOK </code>
+		<code>SOK</code>
 		<image>SOK_symbol.png</image>
 		<names>
 			<name>Saviors of Kamigawa</name>
@@ -826,7 +826,7 @@
 	</edition>
 	<edition>
 		<launch>2005-07</launch>
-		<code> 9ED </code>
+		<code>9ED</code>
 		<image>9ED_symbol.gif</image>
 		<names>
 			<name>9th Edition</name>
@@ -843,7 +843,7 @@
 	</edition>
 	<edition>
 		<launch>2005-10</launch>
-		<code> RAV </code>
+		<code>RAV</code>
 		<image>RAV_symbol.png</image>
 		<names>
 			<name>Ravnica: City of Guilds</name>
@@ -859,7 +859,7 @@
 	</edition>
 	<edition>
 		<launch>2006-02</launch>
-		<code> GPT </code>
+		<code>GPT</code>
 		<image>GPT_symbol.png</image>
 		<names>
 			<name>Guildpact</name>
@@ -874,7 +874,7 @@
 	</edition>
 	<edition>
 		<launch>2006-05</launch>
-		<code> DIS </code>
+		<code>DIS</code>
 		<image>DIS_symbol.png</image>
 		<names>
 			<name>Dissension</name>
@@ -889,7 +889,7 @@
 	</edition>
 	<edition>
 		<launch>2006-07</launch>
-		<code> CSP </code>
+		<code>CSP</code>
 		<image>CSP_symbol.png</image>
 		<names>
 			<name>Coldsnap</name>
@@ -904,7 +904,7 @@
 	</edition>
 	<edition>
 		<launch>2006-10</launch>
-		<code> TSP/TSB </code>
+		<code>TSP/TSB</code>
 		<image>TSP_symbol.png</image>
 		<names>
 			<name>Time Spiral</name>
@@ -921,7 +921,7 @@
 	</edition>
 	<edition>
 		<launch>2007-02</launch>
-		<code> PLC </code>
+		<code>PLC</code>
 		<image>PLC_symbol.png</image>
 		<names>
 			<name>Planar Chaos</name>
@@ -936,7 +936,7 @@
 	</edition>
 	<edition>
 		<launch>2007-05</launch>
-		<code> FUT </code>
+		<code>FUT</code>
 		<image>FUT_symbol.png</image>
 		<names>
 			<name>Future Sight</name>
@@ -951,7 +951,7 @@
 	</edition>
 	<edition>
 		<launch>2007-07</launch>
-		<code> 10E </code>
+		<code>10E</code>
 		<image>Tenth_Edition_symbol.png</image>
 		<names>
 			<name>10th Edition</name>
@@ -967,7 +967,7 @@
 	</edition>
 	<edition>
 		<launch>2007-09</launch>
-		<code> MED </code>
+		<code>MED</code>
 		<image>Masters_Edition_symbol.png</image>
 		<names>
 			<name>Masters Edition</name>
@@ -982,7 +982,7 @@
 	</edition>
 	<edition>
 		<launch>2007-10</launch>
-		<code> LRW </code>
+		<code>LRW</code>
 		<image>LRW_symbol.png</image>
 		<names>
 			<name>Lorwyn</name>
@@ -998,7 +998,7 @@
 	</edition>
 	<edition>
 		<launch>2007-11</launch>
-		<code> EVG </code>
+		<code>EVG</code>
 		<image>EVG_symbol.png</image>
 		<names>
 			<name>Duel Decks: Elves vs. Goblins</name>
@@ -1006,7 +1006,7 @@
 	</edition>
 	<edition>
 		<launch>2008-02</launch>
-		<code> MOR </code>
+		<code>MOR</code>
 		<image>MOR_symbol.png</image>
 		<names>
 			<name>Morningtide</name>
@@ -1021,7 +1021,7 @@
 	</edition>
 	<edition>
 		<launch>2008-05</launch>
-		<code> SHM </code>
+		<code>SHM</code>
 		<image>SHM_symbol.png</image>
 		<names>
 			<name>Shadowmoor</name>
@@ -1037,7 +1037,7 @@
 	</edition>
 	<edition>
 		<launch>2008-06</launch>
-		<code> EVE </code>
+		<code>EVE</code>
 		<image>EVE_symbol.png</image>
 		<names>
 			<name>Eventide</name>
@@ -1052,7 +1052,7 @@
 	</edition>
 	<edition>
 		<launch>2008-08</launch>
-		<code> DRB </code>
+		<code>DRB</code>
 		<image>DRB_symbol.png</image>
 		<names>
 			<name>From the Vault: Dragons</name>
@@ -1064,7 +1064,7 @@
 	</edition>
 	<edition>
 		<launch>2008-09</launch>
-		<code> ME2 </code>
+		<code>ME2</code>
 		<image>Masters_Edition_II_symbol.png</image>
 		<names>
 			<name>Masters Edition II</name>
@@ -1079,7 +1079,7 @@
 	</edition>
 	<edition>
 		<launch>2008-09</launch>
-		<code> ALA </code>
+		<code>ALA</code>
 		<image>ALA_symbol.png</image>
 		<names>
 			<name>Shards of Alara</name>
@@ -1096,7 +1096,7 @@
 	</edition>
 	<edition>
 		<launch>2008-11</launch>
-		<code> DD2 </code>
+		<code>DD2</code>
 		<image>DD2_symbol.png</image>
 		<names>
 			<name>Duel Decks: Jace vs. Chandra</name>
@@ -1107,7 +1107,7 @@
 	</edition>
 	<edition>
 		<launch>2009-02</launch>
-		<code> CON </code>
+		<code>CON</code>
 		<image>CON_symbol.png</image>
 		<names>
 			<name>Conflux</name>
@@ -1122,7 +1122,7 @@
 	</edition>
 	<edition>
 		<launch>2009-04</launch>
-		<code> DDC </code>
+		<code>DDC</code>
 		<image>DDC_symbol.png</image>
 		<names>
 			<name>Duel Decks: Divine vs. Demonic</name>
@@ -1133,7 +1133,7 @@
 	</edition>
 	<edition>
 		<launch>2009-04</launch>
-		<code> ARB </code>
+		<code>ARB</code>
 		<image>ARB_symbol.png</image>
 		<names>
 			<name>Alara Reborn</name>
@@ -1149,7 +1149,7 @@
 	</edition>
 	<edition>
 		<launch>2009-07</launch>
-		<code> M10 </code>
+		<code>M10</code>
 		<image>M10_symbol.png</image>
 		<names>
 			<name>Magic 2010</name>
@@ -1165,7 +1165,7 @@
 	</edition>
 	<edition>
 		<launch>2009-08</launch>
-		<code> </code>
+		<code></code>
 		<names>
 			<name>Commander Theme Decks</name>
 		</names>
@@ -1173,7 +1173,7 @@
 	</edition>
 	<edition>
 		<launch>2009-08</launch>
-		<code> V09 </code>
+		<code>V09</code>
 		<image>V09_symbol.png</image>
 		<names>
 			<name>From the Vault: Exiled</name>
@@ -1185,7 +1185,7 @@
 	</edition>
 	<edition>
 		<launch>2009-09</launch>
-		<code> HOP </code>
+		<code>HOP</code>
 		<image>Planechase_expansion_symbol.png</image>
 		<names>
 			<name>Planechase (2009)</name>
@@ -1199,7 +1199,7 @@
 	</edition>
 	<edition>
 		<launch>2009-09</launch>
-		<code> ME3 </code>
+		<code>ME3</code>
 		<image>Masters_Edition_III_symbol.png</image>
 		<names>
 			<name>Masters Edition III</name>
@@ -1214,7 +1214,7 @@
 	</edition>
 	<edition>
 		<launch>2009-10</launch>
-		<code> ZEN </code>
+		<code>ZEN</code>
 		<image>Zendikar_symbol.png</image>
 		<names>
 			<name>Zendikar</name>
@@ -1231,7 +1231,7 @@
 	</edition>
 	<edition>
 		<launch>2009-10</launch>
-		<code> DDD </code>
+		<code>DDD</code>
 		<image>DDD_symbol.png</image>
 		<names>
 			<name>Duel Decks: Garruk vs. Liliana</name>
@@ -1242,7 +1242,7 @@
 	</edition>
 	<edition>
 		<launch>2009-11</launch>
-		<code> H09 </code>
+		<code>H09</code>
 		<image>H09_symbol.png</image>
 		<names>
 			<name>Premium Deck Series: Slivers</name>
@@ -1253,7 +1253,7 @@
 	</edition>
 	<edition>
 		<launch>2010-02</launch>
-		<code> WWK </code>
+		<code>WWK</code>
 		<image>Worldwake_symbol.png</image>
 		<names>
 			<name>Worldwake</name>
@@ -1269,7 +1269,7 @@
 	</edition>
 	<edition>
 		<launch>2010-03</launch>
-		<code> DDE </code>
+		<code>DDE</code>
 		<image>DDE_symbol.png</image>
 		<names>
 			<name>Duel Decks: Phyrexia vs. The Coalition</name>
@@ -1280,7 +1280,7 @@
 	</edition>
 	<edition>
 		<launch>2010-04</launch>
-		<code> ROE </code>
+		<code>ROE</code>
 		<image>Rise_of_the_Eldrazi_symbol.png</image>
 		<names>
 			<name>Rise of the Eldrazi</name>
@@ -1297,7 +1297,7 @@
 	</edition>
 	<edition>
 		<launch>2010-05</launch>
-		<code> </code>
+		<code></code>
 		<names>
 			<name>Deck Builder's Toolkit (2010)</name>
 		</names>
@@ -1307,7 +1307,7 @@
 	</edition>
 	<edition>
 		<launch>2010-06</launch>
-		<code> DPA </code>
+		<code>DPA</code>
 		<image>Duels_of_the_Planeswalkers_symbol.png</image>
 		<names>
 			<name>Duels of the Planeswalkers (decks)</name>
@@ -1318,7 +1318,7 @@
 	</edition>
 	<edition>
 		<launch>2010-06</launch>
-		<code> ARC </code>
+		<code>ARC</code>
 		<image>Archenemy_expansion_symbol.png</image>
 		<names>
 			<name>Archenemy</name>
@@ -1332,7 +1332,7 @@
 	</edition>
 	<edition>
 		<launch>2010-07</launch>
-		<code> M11 </code>
+		<code>M11</code>
 		<image>M11_symbol.png</image>
 		<names>
 			<name>Magic 2011</name>
@@ -1348,7 +1348,7 @@
 	</edition>
 	<edition>
 		<launch>2010-08</launch>
-		<code> V10 </code>
+		<code>V10</code>
 		<image>V10_symbol.png</image>
 		<names>
 			<name>From the Vault: Relics</name>
@@ -1360,7 +1360,7 @@
 	</edition>
 	<edition>
 		<launch>2010-09</launch>
-		<code> DDF </code>
+		<code>DDF</code>
 		<image>DDF_symbol.png</image>
 		<names>
 			<name>Duel Decks: Elspeth vs. Tezzeret</name>
@@ -1372,7 +1372,7 @@
 	</edition>
 	<edition>
 		<launch>2010-10</launch>
-		<code> SOM </code>
+		<code>SOM</code>
 		<image>SOM_symbol.png</image>
 		<names>
 			<name>Scars of Mirrodin</name>
@@ -1389,7 +1389,7 @@
 	</edition>
 	<edition>
 		<launch>2010-11</launch>
-		<code> PD2 </code>
+		<code>PD2</code>
 		<image>PD2_symbol.png</image>
 		<names>
 			<name>Premium Deck Series: Fire &amp; Lightning</name>
@@ -1400,7 +1400,7 @@
 	</edition>
 	<edition>
 		<launch>2011-01</launch>
-		<code> ME4 </code>
+		<code>ME4</code>
 		<image>Masters_Edition_IV_symbol.png</image>
 		<names>
 			<name>Masters Edition IV</name>
@@ -1415,7 +1415,7 @@
 	</edition>
 	<edition>
 		<launch>2011-02</launch>
-		<code> MBS </code>
+		<code>MBS</code>
 		<image>MBS_symbol.jpg</image>
 		<names>
 			<name>Mirrodin Besieged</name>
@@ -1432,14 +1432,14 @@
 	</edition>
 	<edition>
 		<launch>2011-03</launch>
-		<code> </code>
+		<code></code>
 		<names>
 			<name>Deck Builder's Toolkit (2011)</name>
 		</names>
 	</edition>
 	<edition>
 		<launch>2011-04</launch>
-		<code> DDG </code>
+		<code>DDG</code>
 		<image>DDG_symbol.png</image>
 		<names>
 			<name>Duel Decks: Knights vs. Dragons</name>
@@ -1452,7 +1452,7 @@
 	</edition>
 	<edition>
 		<launch>2011-05</launch>
-		<code> NPH </code>
+		<code>NPH</code>
 		<image>NPH_symbol.jpg</image>
 		<names>
 			<name>New Phyrexia</name>
@@ -1469,7 +1469,7 @@
 	</edition>
 	<edition>
 		<launch>2011-06</launch>
-		<code> CMD </code>
+		<code>CMD</code>
 		<image>MTGCommanderExpansion.jpg</image>
 		<names>
 			<name>Commander (2011)</name>
@@ -1484,7 +1484,7 @@
 	</edition>
 	<edition>
 		<launch>2011-07</launch>
-		<code> M12 </code>
+		<code>M12</code>
 		<image>M12_symbol_c.png</image>
 		<names>
 			<name>Magic 2012</name>
@@ -1501,7 +1501,7 @@
 	</edition>
 	<edition>
 		<launch>2011-08</launch>
-		<code> V11 </code>
+		<code>V11</code>
 		<image>V11_symbol.jpg</image>
 		<names>
 			<name>From the Vault: Legends</name>
@@ -1513,7 +1513,7 @@
 	</edition>
 	<edition>
 		<launch>2011-09</launch>
-		<code> DDH </code>
+		<code>DDH</code>
 		<image>DDH_symbol.jpg</image>
 		<names>
 			<name>Duel Decks: Ajani vs. Nicol Bolas</name>
@@ -1526,7 +1526,7 @@
 	</edition>
 	<edition>
 		<launch>2011-09</launch>
-		<code> ISD </code>
+		<code>ISD</code>
 		<image>ISD_symbol.jpg</image>
 		<names>
 			<name>Innistrad</name>
@@ -1543,7 +1543,7 @@
 	</edition>
 	<edition>
 		<launch>2011-11</launch>
-		<code> PD3 </code>
+		<code>PD3</code>
 		<image>PD3_symbol.jpg</image>
 		<names>
 			<name>Premium Deck Series: Graveborn</name>
@@ -1554,7 +1554,7 @@
 	</edition>
 	<edition>
 		<launch>2012-02</launch>
-		<code> DKA </code>
+		<code>DKA</code>
 		<image>DKA_symbol.jpg</image>
 		<names>
 			<name>Dark Ascension</name>
@@ -1570,7 +1570,7 @@
 	</edition>
 	<edition>
 		<launch>2012-03</launch>
-		<code> DDI </code>
+		<code>DDI</code>
 		<image>DDI_symbol.jpg</image>
 		<names>
 			<name>Duel Decks: Venser vs. Koth</name>
@@ -1581,7 +1581,7 @@
 	</edition>
 	<edition>
 		<launch>2012-05</launch>
-		<code> AVR </code>
+		<code>AVR</code>
 		<image>AVR_symbol.jpg</image>
 		<names>
 			<name>Avacyn Restored</name>
@@ -1598,7 +1598,7 @@
 	</edition>
 	<edition>
 		<launch>2012-05</launch>
-		<code> PC2 </code>
+		<code>PC2</code>
 		<image>Planechase12012_symbol.jpg</image>
 		<names>
 			<name>Planechase (2012)</name>
@@ -1614,7 +1614,7 @@
 	</edition>
 	<edition>
 		<launch>2012-07</launch>
-		<code> M13 </code>
+		<code>M13</code>
 		<image>M13_symbol_c.png</image>
 		<names>
 			<name>Magic 2013</name>
@@ -1630,7 +1630,7 @@
 	</edition>
 	<edition>
 		<launch>2012-08</launch>
-		<code> V12 </code>
+		<code>V12</code>
 		<image>V12_symbol.jpg</image>
 		<names>
 			<name>From the Vault: Realms</name>
@@ -1642,7 +1642,7 @@
 	</edition>
 	<edition>
 		<launch>2012-09</launch>
-		<code> DDJ </code>
+		<code>DDJ</code>
 		<image>DDJ_symbol.jpg</image>
 		<names>
 			<name>Duel Decks: Izzet vs. Golgari</name>
@@ -1653,7 +1653,7 @@
 	</edition>
 	<edition>
 		<launch>2012-10</launch>
-		<code> RTR </code>
+		<code>RTR</code>
 		<image>RTR_symbol.jpg</image>
 		<names>
 			<name>Return to Ravnica</name>
@@ -1670,7 +1670,7 @@
 	</edition>
 	<edition>
 		<launch>2012-11</launch>
-		<code> CMA </code>
+		<code>CMA</code>
 		<image>CMA_symbol.jpg</image>
 		<names>
 			<name>Commander's Arsenal</name>
@@ -1682,7 +1682,7 @@
 	</edition>
 	<edition>
 		<launch>2013-02</launch>
-		<code> GTC </code>
+		<code>GTC</code>
 		<image>GTC_symbol.jpg</image>
 		<names>
 			<name>Gatecrash</name>
@@ -1698,7 +1698,7 @@
 	</edition>
 	<edition>
 		<launch>2013-03</launch>
-		<code> DDK </code>
+		<code>DDK</code>
 		<image>SVT_symbol.jpg</image>
 		<names>
 			<name>Duel Decks: Sorin vs. Tibalt</name>
@@ -1709,7 +1709,7 @@
 	</edition>
 	<edition>
 		<launch>2013-05</launch>
-		<code> DGM </code>
+		<code>DGM</code>
 		<image>DGM_symbol.jpg</image>
 		<names>
 			<name>Dragon's Maze</name>
@@ -1725,7 +1725,7 @@
 	</edition>
 	<edition>
 		<launch>2013-06</launch>
-		<code> MMA </code>
+		<code>MMA</code>
 		<image>MM1.png</image>
 		<names>
 			<name>Modern Masters (2013)</name>
@@ -1739,7 +1739,7 @@
 	</edition>
 	<edition>
 		<launch>2013-07</launch>
-		<code> M14 </code>
+		<code>M14</code>
 		<image>M14_symbol_c.jpg</image>
 		<names>
 			<name>Magic 2014</name>
@@ -1754,7 +1754,7 @@
 	</edition>
 	<edition>
 		<launch>2013-08</launch>
-		<code> V13 </code>
+		<code>V13</code>
 		<image>V13symbol.jpg</image>
 		<names>
 			<name>From the Vault: Twenty</name>
@@ -1766,7 +1766,7 @@
 	</edition>
 	<edition>
 		<launch>2013-09</launch>
-		<code> DDL </code>
+		<code>DDL</code>
 		<image>HVMsymbol.jpg</image>
 		<names>
 			<name>Duel Decks: Heroes vs. Monsters</name>
@@ -1777,7 +1777,7 @@
 	</edition>
 	<edition>
 		<launch>2013-09</launch>
-		<code> THS </code>
+		<code>THS</code>
 		<image>THS_symbol.png</image>
 		<names>
 			<name>Theros</name>
@@ -1794,7 +1794,7 @@
 	</edition>
 	<edition>
 		<launch>2013-11</launch>
-		<code> C13 </code>
+		<code>C13</code>
 		<image>C13symbol.png</image>
 		<names>
 			<name>Commander 2013</name>
@@ -1809,7 +1809,7 @@
 	</edition>
 	<edition>
 		<launch>2014-02</launch>
-		<code> BNG </code>
+		<code>BNG</code>
 		<image>BNGsymbol.jpg</image>
 		<names>
 			<name>Born of the Gods</name>
@@ -1825,7 +1825,7 @@
 	</edition>
 	<edition>
 		<launch>2014-03</launch>
-		<code> DDM </code>
+		<code>DDM</code>
 		<image>Symbol_Jace_vs_Vraska.jpg</image>
 		<names>
 			<name>Duel Decks: Jace vs. Vraska</name>
@@ -1836,7 +1836,7 @@
 	</edition>
 	<edition>
 		<launch>2014-05</launch>
-		<code> JOU </code>
+		<code>JOU</code>
 		<image>JOU_symbol.png</image>
 		<names>
 			<name>Journey into Nyx</name>
@@ -1852,7 +1852,7 @@
 	</edition>
 	<edition>
 		<launch>2014-05</launch>
-		<code> MD1 </code>
+		<code>MD1</code>
 		<image>MED_symbol.jpg</image>
 		<names>
 			<name>Modern Event Deck</name>
@@ -1863,7 +1863,7 @@
 	</edition>
 	<edition>
 		<launch>2014-06</launch>
-		<code> CNS </code>
+		<code>CNS</code>
 		<image>Symbol_Conspiracy.jpg</image>
 		<names>
 			<name>Conspiracy</name>
@@ -1877,7 +1877,7 @@
 	</edition>
 	<edition>
 		<launch>2014-06</launch>
-		<code> VMA </code>
+		<code>VMA</code>
 		<image>Vintage_masters_symbol.jpg</image>
 		<names>
 			<name>Vintage Masters</name>
@@ -1892,7 +1892,7 @@
 	</edition>
 	<edition>
 		<launch>2014-07</launch>
-		<code> M15 </code>
+		<code>M15</code>
 		<image>M15_symbol.jpg</image>
 		<names>
 			<name>Magic 2015</name>
@@ -1910,7 +1910,7 @@
 	</edition>
 	<edition>
 		<launch>2014-08</launch>
-		<code> V14</code>
+		<code>V14</code>
 		<image>ANH_symbol.jpg</image>
 		<names>
 			<name>From the Vault: Annihilation</name>
@@ -1922,7 +1922,7 @@
 	</edition>
 	<edition>
 		<launch>2014-10</launch>
-		<code> DDN </code>
+		<code>DDN</code>
 		<image>Symbol_Speed_vs_Cunning.jpg</image>
 		<names>
 			<name>Duel Decks: Speed vs. Cunning</name>
@@ -1933,7 +1933,7 @@
 	</edition>
 	<edition>
 		<launch>2014-10</launch>
-		<code> KTK </code>
+		<code>KTK</code>
 		<image>Symbol_Khans_of_Tarkir.png</image>
 		<names>
 			<name>Khans of Tarkir</name>
@@ -1950,7 +1950,7 @@
 	</edition>
 	<edition>
 		<launch>2014-11</launch>
-		<code> C14 </code>
+		<code>C14</code>
 		<image>Symbol_Commander_2014.jpg</image>
 		<names>
 			<name>Commander 2014</name>
@@ -1965,7 +1965,7 @@
 	</edition>
 	<edition>
 		<launch>2014-12</launch>
-		<code> DD3 </code>
+		<code>DD3</code>
 		<names>
 			<name>Duel Decks Anthology</name>
 		</names>
@@ -1975,7 +1975,7 @@
 	</edition>
 	<edition>
 		<launch>2015-01</launch>
-		<code> FRF </code>
+		<code>FRF</code>
 		<image>Fate_Reforged.jpg</image>
 		<names>
 			<name>Fate Reforged</name>
@@ -1992,7 +1992,7 @@
 	</edition>
 	<edition>
 		<launch>2015-02</launch>
-		<code> DDO </code>
+		<code>DDO</code>
 		<image>Symbol_Elspeth_vs_Kiora.png</image>
 		<names>
 			<name>Duel Decks: Elspeth vs. Kiora</name>
@@ -2004,7 +2004,7 @@
 	</edition>
 	<edition>
 		<launch>2015-03</launch>
-		<code> DTK </code>
+		<code>DTK</code>
 		<image>Symbol_Dragons_of_Tarkir.png</image>
 		<names>
 			<name>Dragons of Tarkir</name>
@@ -2021,7 +2021,7 @@
 	</edition>
 	<edition>
 		<launch>2015-05</launch>
-		<code> TPR </code>
+		<code>TPR</code>
 		<image>TPR_Icon_V2.png</image>
 		<names>
 			<name>Tempest Remastered</name>
@@ -2036,7 +2036,7 @@
 	</edition>
 	<edition>
 		<launch>2015-05</launch>
-		<code> MM2 </code>
+		<code>MM2</code>
 		<image>MM2.jpg</image>
 		<names>
 			<name>Modern Masters 2015</name>
@@ -2050,7 +2050,7 @@
 	</edition>
 	<edition>
 		<launch>2015-07</launch>
-		<code> ORI </code>
+		<code>ORI</code>
 		<image>ORI_symbol.jpg</image>
 		<names>
 			<name>Magic Origins</name>
@@ -2068,7 +2068,7 @@
 	</edition>
 	<edition>
 		<launch>2015-08</launch>
-		<code> V15 </code>
+		<code>V15</code>
 		<image>FTVangels_symbol.png</image>
 		<names>
 			<name>From the Vault: Angels</name>
@@ -2080,7 +2080,7 @@
 	</edition>
 	<edition>
 		<launch>2015-08</launch>
-		<code> DDP </code>
+		<code>DDP</code>
 		<image>ZVE_symbol.png</image>
 		<names>
 			<name>Duel Decks: Zendikar vs. Eldrazi</name>
@@ -2091,7 +2091,7 @@
 	</edition>
 	<edition>
 		<launch>2015-10</launch>
-		<code> BFZ </code>
+		<code>BFZ</code>
 		<image>BFZ_symbol.png</image>
 		<names>
 			<name>Battle for Zendikar</name>
@@ -2109,7 +2109,7 @@
 	</edition>
 	<edition>
 		<launch>2015-10/2016-01</launch>
-		<code> EXP </code>
+		<code>EXP</code>
 		<image>EXP_symbol.png</image>
 		<names>
 			<name>Zendikar Expeditions</name>
@@ -2120,7 +2120,7 @@
 	</edition>
 	<edition>
 		<launch>2015-11</launch>
-		<code> C15 </code>
+		<code>C15</code>
 		<image>C15_symbol.png</image>
 		<names>
 			<name>Commander 2015</name>
@@ -2132,7 +2132,7 @@
 	</edition>
 	<edition>
 		<launch>2015-11</launch>
-		<code> </code>
+		<code></code>
 		<image>Legendary_cube_symbol.png</image>
 		<names>
 			<name>Legendary Cube</name>
@@ -2141,7 +2141,7 @@
 	</edition>
 	<edition>
 		<launch>2016-01</launch>
-		<code> OGW </code>
+		<code>OGW</code>
 		<image>OGW_ExpansionSymbol.png</image>
 		<names>
 			<name>Oath of the Gatewatch</name>
@@ -2158,7 +2158,7 @@
 	</edition>
 	<edition>
 		<launch>2016-02</launch>
-		<code> DDQ </code>
+		<code>DDQ</code>
 		<image>BVC_symbol.png</image>
 		<names>
 			<name>Duel Decks: Blessed vs. Cursed</name>
@@ -2169,7 +2169,7 @@
 	</edition>
 	<edition>
 		<launch>2016-04</launch>
-		<code> W16 </code>
+		<code>W16</code>
 		<image>W16_C.png</image>
 		<names>
 			<name>Welcome Deck 2016</name>
@@ -2177,7 +2177,7 @@
 	</edition>
 	<edition>
 		<launch>2016-04</launch>
-		<code> SOI </code>
+		<code>SOI</code>
 		<image>SOI_ExpansionSymbol.png</image>
 		<names>
 			<name>Shadows over Innistrad</name>

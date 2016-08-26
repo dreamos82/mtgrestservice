@@ -67,3 +67,27 @@ func LoadMap() (map[string]Edition, []Edition) {
   }
   return editionsMap, q.Editions
 }
+
+func (u Edition) MarshalJSON() ([]byte, error) {
+  fmt.Println("CALLED")
+  vaultValue bool
+  vaultValue = true
+  onlineValue bool
+  vaultValue = false
+  if(u.Vault == nil) {
+    vaultValue = false
+  }
+  if(u.Online == nil) {
+    onlineValue = false
+  }
+  type AliasEdition Edition
+	return json.Marshal(struct {
+    AliasEdition
+    Vault bool `json:"vault"`
+    Online bool `json:"online"`
+	}{
+    AliasEdition:   AliasEdition(u),
+		Vault:       vaultValue,
+		Online:      onlineValue,
+	})
+}
