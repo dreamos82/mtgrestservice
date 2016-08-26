@@ -3,6 +3,7 @@ package datamodel
 import (
   "fmt"
   "encoding/xml"
+  "encoding/json"
   "os"
   "io/ioutil"
 )
@@ -69,10 +70,9 @@ func LoadMap() (map[string]Edition, []Edition) {
 }
 
 func (u Edition) MarshalJSON() ([]byte, error) {
-  fmt.Println("CALLED")
-  vaultValue bool
+  var vaultValue bool
   vaultValue = true
-  onlineValue bool
+  var onlineValue bool
   vaultValue = false
   if(u.Vault == nil) {
     vaultValue = false

@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "mymtgapi/server"
+  "mtgrestservice/server"
 )
 
 func main() {

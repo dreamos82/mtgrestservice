@@ -7,7 +7,7 @@ import (
   "net/http"
   "encoding/json"
   "encoding/xml"
-  "mymtgapi/datamodel"
+  "mtgrestservice/datamodel"
   "github.com/gorilla/mux"
 )
 
@@ -38,8 +38,15 @@ func getEdition(w http.ResponseWriter, r *http.Request){
     if (strings.Compare(displayFormat, "xml") == 0){
         w.Header().Set("Content-Type", "text/xml")
         xml.NewEncoder(w).Encode(EditionsMap[editionCode])
+    } else {
+      fmt.Println("else JSON")
+      w.Header().Set("Content-Type", "text/json")
+      if err := json.NewEncoder(w).Encode(EditionsMap[editionCode]); err!=nil {
+        panic(err)
+      }
     }
   } else {
+    fmt.Println("else JSON")
     w.Header().Set("Content-Type", "text/json")
     if err := json.NewEncoder(w).Encode(EditionsMap[editionCode]); err!=nil {
       panic(err)
@@ -51,7 +58,7 @@ func getEdition(w http.ResponseWriter, r *http.Request){
 func listEditions(w http.ResponseWriter, r *http.Request) {
   vars := mux.Vars(r)
   displayFormat := vars["format"]
-  fmt.Println("ListEditions endpoint", displayFormat)
+  fmt.Println("ListEditions endpoint hit", displayFormat)
   w.Header().Set("charset", "utf8")
   if (displayFormat != "" ) {
     if (strings.Compare(displayFormat, "xml") == 0){
@@ -60,14 +67,16 @@ func listEditions(w http.ResponseWriter, r *http.Request) {
         panic(err)
       }
     } else {
+      fmt.Println("JSON list")
       w.Header().Set("Content-Type", "text/json")
-      if err := json.NewEncoder(w).Encode(EditionsMap); err != nil; {
+      if err := json.NewEncoder(w).Encode(EditionsMap); err != nil {
         panic(err)
       }
     }
   } else {
     w.Header().Set("Content-Type", "text/json")
-    if(err:= json.NewEncoder(w).Encode(EditionsMap); err != nil {
+    fmt.Println("JSON list 2")
+    if err:= json.NewEncoder(w).Encode(EditionsMap); err != nil {
       panic(err)
     }
   }
