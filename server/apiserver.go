@@ -37,11 +37,13 @@ func getEdition(w http.ResponseWriter, r *http.Request){
   if (displayFormat != "") {
     if (strings.Compare(displayFormat, "xml") == 0){
         w.Header().Set("Content-Type", "text/xml")
-      xml.NewEncoder(w).Encode(EditionsMap[editionCode])
+        xml.NewEncoder(w).Encode(EditionsMap[editionCode])
     }
   } else {
     w.Header().Set("Content-Type", "text/json")
-    json.NewEncoder(w).Encode(EditionsMap[editionCode])
+    if err := json.NewEncoder(w).Encode(EditionsMap[editionCode]); err!=nil {
+      panic(err)
+    }
   }
   fmt.Println("GetEditions endpoint ", displayFormat)
 }
@@ -54,16 +56,19 @@ func listEditions(w http.ResponseWriter, r *http.Request) {
   if (displayFormat != "" ) {
     if (strings.Compare(displayFormat, "xml") == 0){
       w.Header().Set("Content-Type", "text/xml")
-      err := xml.NewEncoder(w).Encode(RootElement)
-      if(err != nil){
-        fmt.Println("Error occurred", err)
+      if err := xml.NewEncoder(w).Encode(RootElement); err != nil {
+        panic(err)
       }
     } else {
       w.Header().Set("Content-Type", "text/json")
-      json.NewEncoder(w).Encode(EditionsMap)
+      if err := json.NewEncoder(w).Encode(EditionsMap); err != nil; {
+        panic(err)
+      }
     }
   } else {
     w.Header().Set("Content-Type", "text/json")
-    json.NewEncoder(w).Encode(EditionsMap)
+    if(err:= json.NewEncoder(w).Encode(EditionsMap); err != nil {
+      panic(err)
+    }
   }
 }
