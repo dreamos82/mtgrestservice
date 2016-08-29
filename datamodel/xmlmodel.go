@@ -76,30 +76,40 @@ func (u Edition) MarshalJSON() ([]byte, error) {
   var onlineValue bool
   vaultValue = false
   var preconstructedItem *PreconstructedInfo
+  preconstructedItem = &u.Preconstructed
+  var cardsItem *CardsComposition
+  cardsItem = &u.Cards
   if(u.Vault == nil) {
     vaultValue = false
   }
+
   if(u.Online == nil) {
     onlineValue = false
   }
+
   if( PreconstructedInfo{} == u.Preconstructed ) {
     fmt.Println("PreconstructedEmpty")
     preconstructedItem = nil
-  } else {
-    preconstructedItem = &u.Preconstructed
+  }
+
+  if( CardsComposition{} == u.Cards ) {
+    cardsItem = nil
   }
   fmt.Println(PreconstructedInfo{} == u.Preconstructed)
+  fmt.Println("Cards ", CardsComposition{} == u.Cards)
   type AliasEdition Edition
 	return json.Marshal(struct {
     AliasEdition
+    Cards *CardsComposition `json:"cards,omitempty"`
+    Preconstructed *PreconstructedInfo `json:"preconstructed,omitempty"`
     Vault bool `json:"vault"`
     Online bool `json:"online"`
-    Preconstructed *PreconstructedInfo `json:"preconstructed,omitempty"`
 	}{
     AliasEdition:   AliasEdition(u),
+    Cards:  cardsItem,
+    Preconstructed: preconstructedItem,
 		Vault:       vaultValue,
 		Online:      onlineValue,
-    Preconstructed: preconstructedItem,
 	})
 }
 
