@@ -2,6 +2,7 @@ package datamodel
 
 import (
   "fmt"
+  "strings"
   "encoding/xml"
   "encoding/json"
   "os"
@@ -17,8 +18,8 @@ type Edition struct {
   Launch  string  `xml:"launch" json:"launch"`
   Code  string  `xml:"code" json:"code"`
   Names []NameNode `xml:"names>name"`
-  Cards CardsComposition `xml:"cards" json:"cards"`
-  Preconstructed PreconstructedInfo `xml:"preconstructed" json:"preconstructed"`
+  Cards CardsComposition `xml:"cards" json:"cards,omitempty"`
+  Preconstructed PreconstructedInfo `xml:"preconstructed" json:"preconstructed,omitempty"`
   Vault *struct{} `xml:"vault" json:"vault"`
   Online *struct{} `xml:"online" json:"online"`
 }
@@ -39,9 +40,9 @@ type CardsComposition struct {
 }
 
 type PreconstructedInfo struct {
-  Type string `xml:"type,attr" json:"type"`
-  Decks string `xml:"decks,attr" json:"decks"`
-  Size int `xml:"size" json:"size"`
+  Type string `xml:"type,attr" json:"type,omitempty"`
+  Decks string `xml:"decks,attr" json:"decks,omitempty"`
+  Size int `xml:"size" json:"size,omitempty"`
 }
 
 func LoadMap() (map[string]Edition, []Edition) {
@@ -74,20 +75,44 @@ func (u Edition) MarshalJSON() ([]byte, error) {
   vaultValue = true
   var onlineValue bool
   vaultValue = false
+  var preconstructedItem *PreconstructedInfo
   if(u.Vault == nil) {
     vaultValue = false
   }
   if(u.Online == nil) {
     onlineValue = false
   }
+  if( PreconstructedInfo{} == u.Preconstructed ) {
+    fmt.Println("PreconstructedEmpty")
+    preconstructedItem = nil
+  } else {
+    preconstructedItem = &u.Preconstructed
+  }
+  fmt.Println(PreconstructedInfo{} == u.Preconstructed)
   type AliasEdition Edition
 	return json.Marshal(struct {
     AliasEdition
     Vault bool `json:"vault"`
     Online bool `json:"online"`
+    Preconstructed *PreconstructedInfo `json:"preconstructed,omitempty"`
 	}{
     AliasEdition:   AliasEdition(u),
 		Vault:       vaultValue,
 		Online:      onlineValue,
+    Preconstructed: preconstructedItem,
 	})
+}
+
+func (nameNode NameNode) MarshalJSON() ([]byte, error) {
+  language := nameNode.Lang
+  if( strings.Compare( nameNode.Lang, "") == 0){
+    language = "en"
+  }
+  return json.Marshal(struct{
+    Name string `json:"name"`
+    Lang string `json:"lang"`
+  }{
+    Name: nameNode.Name,
+    Lang: language,
+  })
 }
