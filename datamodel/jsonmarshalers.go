@@ -7,33 +7,33 @@ import (
 )
 
 // MarshalJSON generate JSON output for Edition
-func (u Edition) MarshalJSON() ([]byte, error) {
+func (edition Edition) MarshalJSON() ([]byte, error) {
 	var vaultValue bool
-	vaultValue = true
 	var onlineValue bool
 	vaultValue = false
+	onlineValue = false
 	var preconstructedItem *PreconstructedInfo
-	preconstructedItem = &u.Preconstructed
+	preconstructedItem = &edition.Preconstructed
 	var cardsItem *CardsComposition
-	cardsItem = &u.Cards
-	if u.Vault == nil {
+	cardsItem = &edition.Cards
+	if edition.Vault == nil {
 		vaultValue = false
 	}
 
-	if u.Online == nil {
+	if edition.Online == nil {
 		onlineValue = false
 	}
 
-	if (PreconstructedInfo{} == u.Preconstructed) {
+	if (PreconstructedInfo{} == edition.Preconstructed) {
 		fmt.Println("PreconstructedEmpty")
 		preconstructedItem = nil
 	}
 
-	if (CardsComposition{} == u.Cards) {
+	if (CardsComposition{} == edition.Cards) {
 		cardsItem = nil
 	}
-	fmt.Println(PreconstructedInfo{} == u.Preconstructed)
-	fmt.Println("Cards ", CardsComposition{} == u.Cards)
+	fmt.Println(PreconstructedInfo{} == edition.Preconstructed)
+	fmt.Println("Cards ", CardsComposition{} == edition.Cards)
 	type AliasEdition Edition
 	return json.Marshal(struct {
 		AliasEdition
@@ -42,7 +42,7 @@ func (u Edition) MarshalJSON() ([]byte, error) {
 		Vault          bool                `json:"vault"`
 		Online         bool                `json:"online"`
 	}{
-		AliasEdition:   AliasEdition(u),
+		AliasEdition:   AliasEdition(edition),
 		Cards:          cardsItem,
 		Preconstructed: preconstructedItem,
 		Vault:          vaultValue,

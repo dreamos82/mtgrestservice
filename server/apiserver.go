@@ -46,8 +46,14 @@ func getEdition(w http.ResponseWriter, r *http.Request) {
 		if err := json.NewEncoder(w).Encode(EditionsMap[editionCode]); err != nil {
 			panic(err)
 		}
+	} else {
+		errorMsg := map[string]string{"MSG": "Unrecognized format"}
+		w.Header().Set("Content-Type", "text/json")
+		if err := json.NewEncoder(w).Encode(errorMsg); err != nil {
+			panic(err)
+		}
 	}
-	fmt.Println("GetEditions endpoint ", displayFormat)
+	fmt.Println("GetEditions endpoint ")
 }
 
 func listEditions(w http.ResponseWriter, r *http.Request) {
@@ -60,7 +66,7 @@ func listEditions(w http.ResponseWriter, r *http.Request) {
 		if err := xml.NewEncoder(w).Encode(RootElement); err != nil {
 			panic(err)
 		}
-	} else if displayFormat == "" || strings.Compare(displayFormat, "json") {
+	} else if displayFormat == "" || strings.Compare(displayFormat, "json") == 0 {
 		fmt.Println("JSON list")
 		w.Header().Set("Content-Type", "text/json")
 		if err := json.NewEncoder(w).Encode(EditionsMap); err != nil {
