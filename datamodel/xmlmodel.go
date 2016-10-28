@@ -19,7 +19,7 @@ type Edition struct {
 	Code           string             `xml:"code" json:"code"`
 	Names          []NameNode         `xml:"names>name"`
 	Cards          CardsComposition   `xml:"cards" json:"cards,omitempty"`
-	Preconstructed PreconstructedInfo `xml:"preconstructed" json:"preconstructed,omitempty"`
+	Preconstructed PreconstructedInfo `xml:"preconstructed,omitempty" json:"preconstructed,omitempty"`
 	Vault          *struct{}          `xml:"vault" json:"vault"`
 	Online         *struct{}          `xml:"online" json:"online"`
 }
@@ -32,20 +32,20 @@ type NameNode struct {
 
 //CardsComposition it contain the cards composition for an edition (number of common, uncommon, etc..)
 type CardsComposition struct {
-	Lands    int `xml:"lands" json:"lands"`
-	Common   int `xml:"common" json:"common"`
-	Uncommon int `xml:"uncommon" json:"uncommon"`
-	Rare     int `xml:"rare" json:"rare"`
-	Mythic   int `xml:"mythic" json:"mythic"`
-	Oversize int `xml:"oversize" json:"oversize"`
-	Other    int `xml:"other" json:"other"`
+	Lands    int `xml:"lands,omitempty" json:"lands,omitempty"`
+	Common   int `xml:"common,omitempty" json:"common,omitempty"`
+	Uncommon int `xml:"uncommon,omitempty" json:"uncommon,omitempty"`
+	Rare     int `xml:"rare,omitempty" json:"rare,omitempty"`
+	Mythic   int `xml:"mythic,omitempty" json:"mythic,omitempty"`
+	Oversize int `xml:"oversize,omitempty" json:"oversize,omitempty"`
+	Other    int `xml:"other,omitempty" json:"other,omitempty"`
 }
 
 //PreconstructedInfo it contain information about Preconstructed decks (number of decks, type, etc.)
 type PreconstructedInfo struct {
-	Type  string `xml:"type,attr" json:"type,omitempty"`
-	Decks string `xml:"decks,attr" json:"decks,omitempty"`
-	Size  int    `xml:"size" json:"size,omitempty"`
+	Type  string `xml:"type,attr,omitempty" json:"type,omitempty"`
+	Decks int    `xml:"decks,attr,omitempty" json:"decks,omitempty"`
+	Size  int    `xml:"size,omitempty" json:"size,omitempty"`
 }
 
 //LoadMap it loads the edition map into memory
