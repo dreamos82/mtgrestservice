@@ -3,6 +3,7 @@ This README is still draft
 
 This tool is a small set of rest api, to be used to fetch some information regarding the game Magic The Gathering. 
 The information that are currently available are:
+
 1. All expansion names in English, Spanish and Italian (Spanish and Italian where available).
 2. Card composition of every expansion (Number of lands, commons, uncommons, etc)
 3. If the set is preconstructed: number of decks in the set, and type (duel, planechase, etc.) 
