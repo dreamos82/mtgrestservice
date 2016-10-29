@@ -49,6 +49,7 @@ Once the service is started just try to access:
 # Help
 
 I will be very happy if you want to help me with this project, you can do it in three ways:
+
 1. Reporting bugs (using the project issue tracker)
 2. Keeping the xml information up to date, and add more languages.
 3. Help me in the development
