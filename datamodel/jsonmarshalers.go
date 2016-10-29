@@ -2,7 +2,6 @@ package datamodel
 
 import (
 	"encoding/json"
-	"fmt"
 	"strings"
 )
 
@@ -25,15 +24,12 @@ func (edition Edition) MarshalJSON() ([]byte, error) {
 	}
 
 	if (PreconstructedInfo{} == edition.Preconstructed) {
-		fmt.Println("PreconstructedEmpty")
 		preconstructedItem = nil
 	}
 
 	if (CardsComposition{} == edition.Cards) {
 		cardsItem = nil
 	}
-	fmt.Println(PreconstructedInfo{} == edition.Preconstructed)
-	fmt.Println("Cards ", CardsComposition{} == edition.Cards)
 	type AliasEdition Edition
 	return json.Marshal(struct {
 		AliasEdition
