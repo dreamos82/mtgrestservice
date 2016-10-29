@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-// MarshalXML generate XML output for Edition
+// MarshalXML generate XML output for PrecsontructedInfo
 func (preconstructed PreconstructedInfo) MarshalXML(e *xml.Encoder, start xml.StartElement) (err error) {
 	if (PreconstructedInfo{} == preconstructed) {
 		return nil
@@ -21,12 +21,16 @@ func (preconstructed PreconstructedInfo) MarshalXML(e *xml.Encoder, start xml.St
 	err = e.EncodeToken(start)
 	e.EncodeElement(preconstructed.Size, xml.StartElement{Name: xml.Name{Local: "size"}})
 	return e.EncodeToken(xml.EndElement{Name: start.Name})
-	/*if err != nil {
-		fmt.Print("error: ", err)
-		return
-	}
-	fmt.Print(start)
+}
 
-	return e.EncodeToken(preconstructed)
-	return nil*/
+// MarshalXML generate XML output for Names
+func (name NameNode) MarshalXML(e *xml.Encoder, start xml.StartElement) (err error) {
+	if (NameNode{} == name) {
+		return nil
+	}
+	if strings.Compare(name.Lang, "") != 0 {
+		start.Attr = []xml.Attr{xml.Attr{Name: xml.Name{Local: "lang"}, Value: name.Lang}}
+	}
+	err = e.EncodeElement(name.Name, start)
+	return err
 }
