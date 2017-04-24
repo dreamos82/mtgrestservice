@@ -2275,11 +2275,40 @@
 		</cards>
 	</edition>
 	<edition>
-		<launch>2017-01</launch>
-		<code>AER</code>
-		<image>AER_symbol.png</image>
+		<launch>2017-03</launch>
+		<image>DDS_symbol.png</image>
+		<code>DDS</code>
 		<names>
-			<name>Aether Revolt</name>
+			<name>Duel Decks: Mind vs. Might</name>
 		</names>
+		<preconstructed decks="2" type="duel">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2017-04</launch>
+		<image>AKH_symbol.png</image>
+		<code>AKH</code>
+		<names>
+			<name>Amonkhet</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2017-06</launch>
+		<code> CMA </code>
+		<image>CMA_symbol.png</image>
+		<names>
+			<name>Commander Anthology</name>
+		</names>
+		<preconstructed decks="4" type="commander">
+			<size>100</size>
+		</preconstructed>
 	</edition>
 </root>
