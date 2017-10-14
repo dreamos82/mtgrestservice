@@ -357,6 +357,7 @@
 			<rare>28</rare>
 			<lands>5</lands>
 		</cards>
+		<fun />
 	</edition>
 	<edition>
 		<launch>1998-10</launch>
@@ -793,6 +794,7 @@
 			<lands>5</lands>
 			<other>1</other>
 		</cards>
+		<fun />
 	</edition>
 	<edition>
 		<launch>2005-02</launch>
@@ -2275,6 +2277,47 @@
 		</cards>
 	</edition>
 	<edition>
+		<launch>2016-11</launch>
+		<code> C16 </code>
+		<image>C16_symbol.png</image>
+		<names>
+			<name>Commander 2016</name>
+			<name lang="it">Commander 2016</name>
+		</names>
+		<preconstructed decks="5" type="commander">
+			<size>100</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2017-01</launch>
+		<code>AER</code>
+		<image>AER_symbol.png</image>
+		<names>
+			<name>Aether Revolt</name>
+			<name lang="it">La rivolta dell'etere</name>
+		</names>
+		<cards>
+			<common>70</common>
+			<uncommon>60</uncommon>
+			<rare>42</rare>
+			<mythic>12</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2017-03</launch>
+		<code>MM3</code>
+		<image>MM3_symbol.png</image>
+		<names>
+			<name>Modern Masters 2017</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+		</cards>
+	</edition>
+	<edition>
 		<launch>2017-03</launch>
 		<image>DDS_symbol.png</image>
 		<code>DDS</code>
@@ -2301,6 +2344,17 @@
 		</cards>
 	</edition>
 	<edition>
+		<launch>2017-04</launch>
+		<code> MS3 </code>
+		<image>MS3_symbol.png</image>
+		<names>
+			<name>Amonkhet Invocations</name>
+		</names>
+		<cards>
+			<mythic>54</mythic>
+		</cards>
+	</edition>
+	<edition>
 		<launch>2017-06</launch>
 		<code> CMA </code>
 		<image>CMA_symbol.png</image>
@@ -2310,5 +2364,87 @@
 		<preconstructed decks="4" type="commander">
 			<size>100</size>
 		</preconstructed>
+	</edition>
+
+    <edition>
+        <launch>2017-06</launch>
+        <code></code>
+        <image>Archenemy_expansion_symbol.png</image>
+        <names>
+            <name>Archenemy: Nichol Bolas</name>
+        </names>
+        <preconstructed decks="4">
+            <size>60</size>
+        </preconstructed>
+        <cards>
+            <oversize>20</oversize>
+        </cards>
+    </edition>
+	<edition>
+		<launch>2017-07</launch>
+		<image>HOU_symbol.png</image>
+		<code>HOU</code>
+		<names>
+			<name>Hour of devastation</name>
+			<name lang="it">L’Era della Rovina</name>
+		</names>
+		<cards>
+			<common>70</common>
+			<uncommon>60</uncommon>
+			<rare>42</rare>
+			<mythic>12</mythic>
+			<lands>15</lands>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2017-08</launch>
+		<image>C17_symbol.png</image>
+		<code>C17</code>
+		<names>
+			<name>Commander 2017</name>
+		</names>
+		<preconstructed decks="4" type="commander">
+			<size>100</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2017-09</launch>
+		<image>XLN_symbol.png</image>
+		<code>XLN</code>
+		<names>
+			<name>Ixalan</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>63</rare>
+			<mythic>15</mythic>
+			<lands>20</lands>
+			<other>10</other>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2017-12</launch>
+		<code>UST</code>
+		<image>UST_symbol.png</image>
+		<names>
+			<name>Unstable</name>
+		</names>
+		<fun />
+	</edition>
+	<edition>
+		<launch>2018-01</launch>
+		<code>RXN</code>
+		<image>RXN_symbol.png</image>
+		<names>
+			<name>Rivals of Ixalan</name>
+		</names>
+	</edition>
+	<edition>
+		<launch>2018-04</launch>
+		<code>	DOM</code>
+		<names>
+			<name>Dominaria</name>
+		</names>
 	</edition>
 </root>
