@@ -22,14 +22,14 @@ var RootElement Root
 //var EditionsArray []datamodel.Edition
 
 //InitServer will initialize the server
-func InitServer() {
-	EditionsMap, RootElement.EditionsArray = datamodel.LoadMap()
+func InitServer(configuration map[string]string) {
+	EditionsMap, RootElement.EditionsArray = datamodel.LoadMap(configuration["assetsfolder"])
 	myRouter := mux.NewRouter().StrictSlash(true)
 	myRouter.HandleFunc("/listeditions", listEditions)
 	myRouter.HandleFunc("/listeditions/{format}", listEditions)
 	myRouter.HandleFunc("/getedition/{key}", getEdition)
 	myRouter.HandleFunc("/getedition/{key}/{format}", getEdition)
-	log.Fatal(http.ListenAndServe(":8081", myRouter))
+	log.Fatal(http.ListenAndServe(":"+configuration["port"], myRouter))
 }
 
 func getEdition(w http.ResponseWriter, r *http.Request) {
