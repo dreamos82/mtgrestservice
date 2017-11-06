@@ -8,11 +8,15 @@ import (
 
 func main() {
 	fmt.Println("Reading configuration")
+	var configuration map[string]string
 	configuration, err := config.ReadConfigFile("config.properties")
-	fmt.Println(configuration)
-	fmt.Println(err)
-	if err == nil && configuration != nil {
+	if err != nil {
+		fmt.Println("Error opening config file: " + err.Error())
+		fmt.Println("Use default configuration")
+		configuration = config.CreateDefaultConfigurationMap()
+	}
+	 if configuration != nil {
 		fmt.Println("Launching server")
-		server.InitServer()
+		server.InitServer(configuration)
 	}
 }
