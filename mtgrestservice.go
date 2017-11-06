@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"mtgrestservice/server"
+	"mtgrestservice/config"
 )
 
 func main() {
@@ -34,6 +35,8 @@ func main() {
 	  fmt.Println(EditionsMap["EMN"])*/
 	/*EditionsMap = datamodel.LoadMap()
 	  fmt.Println(EditionsMap["EMN"])*/
+	fmt.Println("Reading configuration")
+	config.ReadConfigFile("test.conf")
 	fmt.Println("Launching server")
 	server.InitServer()
 }
