@@ -15,7 +15,7 @@ func main() {
 		fmt.Println("Use default configuration")
 		configuration = config.CreateDefaultConfigurationMap()
 	}
-	 if configuration != nil {
+	if configuration != nil {
 		fmt.Println("Launching server")
 		server.InitServer(configuration)
 	}

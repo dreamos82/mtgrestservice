@@ -23,7 +23,7 @@ var RootElement Root
 
 //InitServer will initialize the server
 func InitServer(configuration map[string]string) {
-	EditionsMap, RootElement.EditionsArray = datamodel.LoadMap()
+	EditionsMap, RootElement.EditionsArray = datamodel.LoadMap(configuration["assetsfolder"])
 	myRouter := mux.NewRouter().StrictSlash(true)
 	myRouter.HandleFunc("/listeditions", listEditions)
 	myRouter.HandleFunc("/listeditions/{format}", listEditions)

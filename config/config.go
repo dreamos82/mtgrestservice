@@ -19,12 +19,14 @@ func ReadConfigFile(fileName string) (map[string]string, error){
     var configurationmap map[string]string
     configurationmap = make(map[string]string)
     for scanner.Scan() {             // internally, it advances token based on sperator
-        property := strings.Split(scanner.Text(), "=")
-        SetConfigurationProperty(&configurationmap, property)
+        if(!strings.HasPrefix(scanner.Text(), "#")){
+          property := strings.Split(scanner.Text(), "=")
+          SetConfigurationProperty(&configurationmap, property)
+        }
     }
     return configurationmap, nil
   } else {
-    err = errors.New("emit macho dwarf: elf header corrupted")
+    err = errors.New("Unknown error")
     return nil, err
   }
 }

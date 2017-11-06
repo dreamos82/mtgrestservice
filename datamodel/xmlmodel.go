@@ -49,8 +49,8 @@ type PreconstructedInfo struct {
 }
 
 //LoadMap it loads the edition map into memory
-func LoadMap() (map[string]Edition, []Edition) {
-	xmlFile, err := os.Open("assets/magicsymbols.xml")
+func LoadMap(fullpath string) (map[string]Edition, []Edition) {
+	xmlFile, err := os.Open(fullpath)
 	if err != nil {
 		fmt.Println("Error opening file: ", err)
 		return nil, nil
