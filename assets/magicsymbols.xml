@@ -2424,12 +2424,33 @@
 		</cards>
 	</edition>
 	<edition>
+		<launch>2017-11</launch>
+		<image>IMA_symbol.jpg</image>
+		<code>IMA</code>
+		<names>
+			<name>Iconic Masters</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+		</cards>
+	</edition>
+	<edition>
 		<launch>2017-12</launch>
 		<code>UST</code>
 		<image>UST_symbol.png</image>
 		<names>
 			<name>Unstable</name>
 		</names>
+		<cards>
+			<common>102</common>
+			<uncommon>90</uncommon>
+			<rare>61</rare>
+			<mythic>15</mythic>
+			<lands>5</lands>
+		</cards>
 		<fun />
 	</edition>
 	<edition>
