@@ -12,7 +12,7 @@ func (preconstructed PreconstructedInfo) MarshalXML(e *xml.Encoder, start xml.St
 		return nil
 	}
 	if preconstructed.Decks > 0 {
-		start.Attr = []xml.Attr{xml.Attr{Name: xml.Name{Local: "decks"}, Value: strconv.Itoa(preconstructed.Size)}}
+		start.Attr = []xml.Attr{xml.Attr{Name: xml.Name{Local: "decks"}, Value: strconv.Itoa(preconstructed.Decks)}}
 	}
 	if strings.Compare(preconstructed.Type, "") != 0 {
 		start.Attr = append(start.Attr, xml.Attr{Name: xml.Name{Local: "type"}, Value: preconstructed.Type})
