@@ -1,5 +1,5 @@
 # Mtgrestservice
-This README is still draft
+This README is still in draft
 
 This tool is a small set of rest api, to be used to fetch some information regarding the game Magic The Gathering.
 The information that are currently available are:
