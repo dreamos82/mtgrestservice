@@ -429,7 +429,7 @@
 	<edition>
 		<launch>1999-07</launch>
 		<code>PTK (P3)</code>
-		<image>P3K_symbol.gif</image>
+		<image>PTK_symbol.png</image>
 		<names>
 			<name>Portal Three Kingdoms</name>
 		</names>
@@ -443,7 +443,7 @@
 	<edition>
 		<launch>1999-08</launch>
 		<code>S99</code>
-		<image>Starter_1999_symbol.gif</image>
+		<image>S99_symbol.png</image>
 		<names>
 			<name>Starter 1999</name>
 		</names>
@@ -1321,7 +1321,7 @@
 	<edition>
 		<launch>2010-06</launch>
 		<code>ARC</code>
-		<image>Archenemy_expansion_symbol.png</image>
+		<image>ARC_symbol.png</image>
 		<names>
 			<name>Archenemy</name>
 		</names>
@@ -2558,6 +2558,7 @@
 		<names>
 			<name>Core Set 2019</name>
 			<name lang="it">Set Base 2019</name>
+			<name lang="es">Colección básica 2019</name>
 		</names>
 		<cards>
 			<common>111</common>
@@ -2577,5 +2578,84 @@
 		<preconstructed decks="4" type="commander">
 			<size>100</size>
 		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2018-10</launch>
+		<code>GRN</code>
+		<image>GRN_symbol.png</image>
+		<names>
+			<name>Guilds of Ravnica</name>
+			<name lang="it">Gilde di Ravnica</name>
+			<name lang="es">Gremios de Ravnica</name>
+		</names>
+		<cards>
+			<common>111</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2018-11</launch>
+		<image>GNT_Symbol.png</image>
+		<code>GNT</code>
+		<names>
+			<name>Game Night</name>
+		</names>
+		<preconstructed decks="5" type="multiplayer">
+			<size>60</size>
+		</preconstructed>
+	</edition>
+	<edition>
+		<launch>2018-12</launch>
+		<image>UMA_Symbol.png</image>
+		<code>UMA</code>
+		<names>
+			<name>Ultimate Masters</name>
+		</names>
+		<cards>
+			<common>101</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>20</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2019-01</launch>
+		<code>RNA</code>
+		<image>RNA_symbol.png</image>
+		<names>
+			<name>Ravnica Allegiance</name>
+			<name lang="it">Fedelta di Ravnica</name>
+			<name lang="es">La lealtad de Ravnica</name>
+		</names>
+		<cards>
+			<common>111</common>
+			<uncommon>80</uncommon>
+			<rare>53</rare>
+			<mythic>15</mythic>
+		</cards>
+	</edition>
+	<edition>
+		<launch>2019-04</launch>
+		<code>WAR</code>
+		<names>
+			<name>War of the spark</name>
+		</names>
+	</edition>
+	<edition>
+		<launch>2019-07</launch>
+		<code>M20</code>
+		<names>
+			<name>Core set 2020</name>
+			<name lang="it">Set base 2020</name>
+		</names>
+	</edition>
+	<edition>
+		<launch>2019-08</launch>
+		<code>C19</code>
+		<names>
+			<name>Commander 2020</name>
+		</names>
 	</edition>
 </root>
