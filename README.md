@@ -43,9 +43,10 @@ mtgrestservice
 ```
 
 Once the service is started just try to access:
-* http://&lt;hostname&gt;:8081/listeditions for a list of all editions in json format
-* http://&lt;hostname&gt;:8081/getedition/{key}/{format} where key is the edition code, and format is xml or json, will return the information available for the edition specified in key in the selected format.
+* http://&lt;hostname&gt;:4040/listeditions for a list of all editions in json format
+* http://&lt;hostname&gt;:4040/getedition/{key}/{format} where key is the edition code, and format is xml or json, will return the information available for the edition specified in key in the selected format.
 
+The port used by default is 4040, if you change it in config.properties, change the port accordingly in the above examples. 
 # Help
 
 I will be very happy if you want to help me with this project, you can do it in three ways:
