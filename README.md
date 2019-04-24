@@ -47,7 +47,8 @@ Once the service is started just try to access:
 * http://&lt;hostname&gt;:4040/getedition/{key}/{format} where key is the edition code, and format is xml or json, will return the information available for the edition specified in key in the selected format.
 
 The port used by default is 4040, if you change it in config.properties, change the port accordingly in the above examples. 
-#Using Docker
+
+# Using Docker
 If you are using docker you can build a container containing the service. 
 First you need to build the container with: 
 
